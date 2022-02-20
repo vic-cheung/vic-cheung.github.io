@@ -7,12 +7,12 @@
 ## EDUCATION
 * * *
 
-| Institution                             | Degree        | Area of Study                                      |
-|:----------------------------------------|:--------------|:---------------------------------------------------|
-| University of California, San Francisco | PhD           | Genetics, conc. Systems Neuroscience               |
-| University of California, San Diego     | BS            | Microbiology, minor: Chinese Studies               |
-| Genentech L.E.A.D Discovery Program     | Certification | Supply Chain Management                            |
-| Cold Spring Harbor Laboratory           |               | Vision: Linking Circuits, Perception, and Behavior |
+| Institution                             | Degree        | Area of Study           |                                              |
+|:----------------------------------------|:--------------|:------------------------|----------------------------------------------|
+| University of California, San Francisco | PhD           | Genetics                | Systems Neuroscience                         |
+| University of California, San Diego     | BS            | Microbiology            | minor: Chinese Studies                       |
+| Genentech L.E.A.D Discovery Program     | Certification | Supply Chain Management |                                              |
+| Cold Spring Harbor Laboratory           |               | Vision                  | _Linking Circuits, Perception, and Behavior_ |
 
 <br>
 
