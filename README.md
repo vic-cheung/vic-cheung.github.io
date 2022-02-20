@@ -37,7 +37,7 @@ Characterized gene signature development and refinement for T cell signaling pat
 
 ### **GRADUATE RESEARCHER IN SINGLE-CELL OMICS, SYSTEMS NEUROSCIENCE**
 [Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)<br>
-_(JUL 2016 - DEC 2021)_ <br>
+_JUL 2016 - DEC 2021_ <br>
 **Project 1**<br>
 Developed a multiplexed, high-throughput, single-cell sequencing method for neurons that preserve connectivity information in addition to obtaining molecular identity (VECTORseq). Git Repo [here](https://github.com/vic-cheung/vectorseq).
 - Wrote the data processing pipeline using Python after genome alignment using Cellranger (10x Genomics) on an AWS EC2 instance.
@@ -79,7 +79,7 @@ Designed an audition-based behavioral paradigm to study sensorimotor integration
 
 ### **HEALTH DATA SCIENCE FELLOW**
 [Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley<br>
-_(MAY 2020 - JUL 2020)_ <br>
+_MAY 2020 - JUL 2020_ <br>
 Developed a predictive clinical calculator to assess Acute Kidney Injury in hospitalized patients, which would result in better management, care/medication dosing, injury prevention, and reduced hospital length of stay, thus freeing up occupied resources and minimizing financial costs to both patient and hospital.
 - Utilized PostgreSQL querying to gather relevant data from the MIMIC-III database and manipulated the data with Python Pandas from 25 tables of data, 46,000 patients, thousands of diagnoses and lab tests, and clinical documentation-- generating over 3 million rows of data and 70 unique features comprising lab tests and demographic information. 
 - Used supervised machine learning in Python such as regression models from scikit-learn and XGBoost to forecast Acute Kidney Injury, with a predictive accuracy of my model is ~91%.
@@ -96,7 +96,7 @@ Developed a predictive clinical calculator to assess Acute Kidney Injury in hosp
 * * *
 ### **DISCOVERY PROGRAM L.E.A.D SUPPLY CHAIN**
 Genentech [Certification](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_SupplyChainCertificate.pdf)<br>
-_(JUL 2020 - AUG 2020)_ <br>
+_JUL 2020 - AUG 2020_ <br>
 - Learned about the fundamentals of supply chain, how the supply chain spans a variety of roles throughout Genentech's delivery of therapies as well as its involvement in providing medication access to underserved communities and its drive towards sustainability. 
 - Chatted with supply chain business leaders to interact with individuals in the industry. 
 - Discussed the transferability of skills from the PhD to business/supply chain.
@@ -105,7 +105,7 @@ _(JUL 2020 - AUG 2020)_ <br>
 
 ### **GRADUATE RESEARCHER--rotation**
 [Guo Huang Lab](https://www.cvri.ucsf.edu/~huang/lab/Research.html) @ UCSF<br>
-_(APR 2016 - JUN 2016)_ <br>
+_APR 2016 - JUN 2016_ <br>
 Area of Research: Regenerative Potential of Cardiomyocytes<br>
 - Performed heart explants for cell culture and subsequent drug studies for the purpose of exploring organ regeneration and repair in neonatal mice—with an emphasis on the pathways that regulate resident stem cell activation and mature cell de-differentiation/proliferation. 
 - Explored organ regeneration and development from an evolutionary standpoint across different species of animals i.e. naked mole rat, finch, rat, mouse, zebrafish.
@@ -115,7 +115,7 @@ Area of Research: Regenerative Potential of Cardiomyocytes<br>
 
 ### **GRADUATE RESEARCHER--rotation**
 [Dengke Ma Lab](https://malab.ucsf.edu/research) @ UCSF<br>
-_(SEP 2015 - DEC 2015)_ <br>
+_SEP 2015 - DEC 2015_ <br>
 Area of Research: Homeostatic Response to Extreme Abiotic Factors<br>
 - Created a functional mutant line in C. elegans via cDNA microinjections and exposed the mutants to extreme abiotic environments via behavioral assays to understand cellular intrinsic tolerance of hypoxia/anoxia and hypothermia.
 - Utilized RNA-seq to identify genes implicated in cryopreservation/hypoxia-tolerance with therapeutic potential.
@@ -125,7 +125,7 @@ Area of Research: Homeostatic Response to Extreme Abiotic Factors<br>
 
 ### **RESEARCH FELLOWSHIP: [UCLEADS](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html) & [STARS](https://grad.ucsd.edu/diversity/programs/stars/index.html)**
 [Andrew D. Huberman Lab](https://hubermanlab.com/about/) @ UCSD<br>
-_(SEP 2012 - JUL 2015)_ <br>
+_SEP 2012 - JUL 2015_ <br>
 Area of Research: Binocular Plasticity & Dynamic Strategy Implementation in Cuttlefish <br>
 - Developed a model of visual perception and prey capture using cuttlefish to study the neural circuit organization supporting flexible eye movements. 
   - Underlying goal: provide insight into amblyopia (lazy eye)
@@ -139,7 +139,7 @@ Area of Research: Binocular Plasticity & Dynamic Strategy Implementation in Cutt
 
 ### **RESEARCH FELLOWSHIP: [UCSF SRTP](https://graduate.ucsf.edu/srtp)**
 [David R. Copenhagen Lab](https://neurograd.ucsf.edu/people/david-copenhagen-phd) @ UCSF<br>
-_(JUN 2014 - SEP 2014)_ <br>
+_JUN 2014 - SEP 2014_ <br>
 Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during retinal development<br>
 - Explored the effects of light dependent Ca<sup>2+</sup> waves in the developing mouse retina with a focus on the coupling of amacrine cells to melanopsin ganglion cells via gap junctions. 
 - Characterized appropriate transgenic lines and established baseline comparisons in adult retina to observe and document deviations from the developed animal to the developing animal.
@@ -150,7 +150,7 @@ Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during re
 ## MENTORSHIP | DIVERSITY
 * * *
 ### **MENTOR FOR UNDERGRADUATES**
-_(JUN 2026 - SEP 2021)_ <br>
+_JUN 2026 - SEP 2021_ <br>
 - Trained and mentored 3 undergraduates on performing research tasks on how to: think independently, plan experiments, perform surgical protocols, and analyze data. Gave career/research advice.
 - Post-graduation outcomes of the 3 undergraduates: 
   1. data analyst @[BoxLunch](https://www.boxlunch.com/homepage?cm_mmc=SEM-_-GGL-_-BR-_-DMY-_-541787926_57911524309&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP-FK2iMX9GHn7rNmiIQvYcnjXlKJkunprrDSj0u4bnXOVlWWHPe9YBoC1TMQAvD_BwE)
@@ -161,7 +161,7 @@ _(JUN 2026 - SEP 2021)_ <br>
 
 ### **STUDENT ADVISOR**
 [UCSF SRTP](https://graduate.ucsf.edu/srtp)<br>
-_(JUN 2019 - AUG 2019)_ <br>
+_JUN 2019 - AUG 2019_ <br>
 - Developed curriculum for and taught curriculum to teach rising junior and senior undergraduates on: 
  - how to become a strong graduate school applicant
  - how to create compelling posters and presentations
@@ -180,7 +180,7 @@ _(JAN 2016 - JUN 2016)_ <br>
 
 ### **UC LEADERSHIP EXCELLENCE THROUGH ADVANCED DEGREES SCHOLAR SCHOLAR (UCLEADS)**
 [UCSD](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html) <br>
-_(MAR 2013 - JUN 2015)_ <br>
+_MAR 2013 - JUN 2015_ <br>
 "Mentorship program for underprivileged and socioeconomically disadvantaged undergraduates for success in graduate school to later assume positions of leadership in industry, government, public service, and academia following completion of a doctoral STEM degree"
 - Two-way avenue: 
   1. Received mentorship from prior two cohorts as part of the incoming cohort
