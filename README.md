@@ -28,7 +28,7 @@ Characterized gene signature development and refinement for T cell signaling pat
   - Utilized supervised batch correction techniques and unsupervised clustering algorithms (UMAP, topic modeling) to visualize and analyze single cell RNA seq data outputs. 
   - Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.
 <br>
-- **_Technologies used:_** 
+**_Technologies used:_**<br>
  - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
  - R (fgsea, SingleCellExperiment, Seurat)<br>
 <br>
@@ -44,7 +44,7 @@ Developed a multiplexed, high-throughput, single-cell sequencing method for neur
   - Evaluated range of highly variable genes expressed per cluster for the validation of cell identity
 - Managed collaborations with the Chan-Zuckerberg Biohub (Spyros Darmanis Group, now @ Genentech)
 <br><br>
-- **_Technologies used:_** 
+**_Technologies used:_**<br>
  - AWS (EC2/S3)
  - Linux, bash, CellRanger
  - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
@@ -53,7 +53,7 @@ Developed a multiplexed, high-throughput, single-cell sequencing method for neur
  - stereotaxic surgeries, viral delivery
 <br>
 <br>
-Designed an audition-based behavioral paradigm to study sensorimotor integration in the context of mice.
+Designed an audition-based behavioral paradigm to study sensorimotor integration in the context of mice.<br>
 - Wrote custom software to support custom-built hardware using serial communication between MATLAB and an Arduino microprocessor, which increased productivity by - 6-fold from the parallelization and automation of data acquisition, storage, and analysis.
 - Used this system in exploring how sensory input is represented in the brain and transformed into behavioral commands, using mice as the model organism.
 - Wrote custom analyses software to automate, refine, and interpret both raw behavioral data and fiber photometry signals.
@@ -63,7 +63,7 @@ Designed an audition-based behavioral paradigm to study sensorimotor integration
 - Assembled fiber photometry and optogenetic manipulation equipment to record and perturb neuronal activity in the context of quantitative behavioral assays.
 <br>
 <br>
-- **_Technologies used:_** 
+**_Technologies used:_**<br>
  - CAD Software (Onshape, Cura, eMachineShop)
  - MATLAB
  - Arduino (Uno)
@@ -81,7 +81,7 @@ Developed a predictive clinical calculator to assess Acute Kidney Injury in hosp
 - Medium Article in Towards Data Science: [Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)
 <br>
 <br>
-- **_Technologies used:_**
+**_Technologies used:_**<br>
  - Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)
  - AWS (EC2, S3, Route 53)
  - Streamlit
