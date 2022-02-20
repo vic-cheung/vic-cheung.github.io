@@ -19,7 +19,7 @@
 ## CAREER EXPERIENCE
 * * *
 ### **ONCOLOGY BIOINFORMATICS & MOLECULAR ONCOLOGY**
-@ [Genentech](https://www.gene.com/<br>
+[Genentech](https://www.gene.com/)<br>
 _SEP 2021 - Present_ <br>
 Characterized gene signature development and refinement for T cell signaling pathways in cancer models<br>
 - Wrote a data processing pipeline utilizing Scanpy, Numpy, Pandas, scikit-learn 
