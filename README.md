@@ -27,7 +27,8 @@ Characterized gene signature development and refinement for T cell signaling pat
   - Differential gene expression analysis
   - Utilized supervised batch correction techniques and unsupervised clustering algorithms (UMAP, topic modeling) to visualize and analyze single cell RNA seq data outputs. 
   - Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.
-<br><br>
+
+<br>
 
 **_Technologies used:_**<br>
  - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
@@ -44,7 +45,8 @@ Developed a multiplexed, high-throughput, single-cell sequencing method for neur
 - Validated clustering results of single-cell sequencing against the [2020 10x sequencing dataset from the Allen Atlas](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) and that the methodology was functional.
   - Evaluated range of highly variable genes expressed per cluster for the validation of cell identity
 - Managed collaborations with the Chan-Zuckerberg Biohub (Spyros Darmanis Group, now @ Genentech)
-<br><br>
+
+<br>
 
 **_Technologies used:_**<br>
  - AWS (EC2/S3)
@@ -53,8 +55,9 @@ Developed a multiplexed, high-throughput, single-cell sequencing method for neur
  - FIJI, Zen
  - Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing
  - stereotaxic surgeries, viral delivery
+
 <br>
-<br>
+
 Designed an audition-based behavioral paradigm to study sensorimotor integration in the context of mice.<br>
 - Wrote custom software to support custom-built hardware using serial communication between MATLAB and an Arduino microprocessor, which increased productivity by - 6-fold from the parallelization and automation of data acquisition, storage, and analysis.
 - Used this system in exploring how sensory input is represented in the brain and transformed into behavioral commands, using mice as the model organism.
@@ -63,7 +66,7 @@ Designed an audition-based behavioral paradigm to study sensorimotor integration
 - Refined surgical protocols to increase survival surgery success by 20%. Delivery of viruses, drugs, and organic dyes into the mouse brain.
 - Performed physiology recordings on brain slices to validate optogenetic and fiber photometry experiments
 - Assembled fiber photometry and optogenetic manipulation equipment to record and perturb neuronal activity in the context of quantitative behavioral assays.
-<br>
+
 <br>
 
 **_Technologies used:_**<br>
@@ -74,7 +77,8 @@ Designed an audition-based behavioral paradigm to study sensorimotor integration
  - stereotaxic surgeries, viral delivery, fiber optic implants
  - fiber photometry, optogenetics
  - immunohistochemistry
-<br>
+
+<br><br>
 
 **HEALTH DATA SCIENCE FELLOW** | [Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley<br>
 _(MAY 2020 - JUL 2020)_ <br>
@@ -82,14 +86,15 @@ Developed a predictive clinical calculator to assess Acute Kidney Injury in hosp
 - Utilized PostgreSQL querying to gather relevant data from the MIMIC-III database and manipulated the data with Python Pandas from 25 tables of data, 46,000 patients, thousands of diagnoses and lab tests, and clinical documentation-- generating over 3 million rows of data and 70 unique features comprising lab tests and demographic information. 
 - Used supervised machine learning in Python such as regression models from scikit-learn and XGBoost to forecast Acute Kidney Injury, with a predictive accuracy of my model is ~91%.
 - Medium Article in Towards Data Science: [Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)
-<br>
+
 <br>
 
 **_Technologies used:_**<br>
  - Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)
  - AWS (EC2, S3, Route 53)
  - Streamlit
-<br>
+ 
+<br><br><br>
     
 ## OTHER EXPERIENCE
 * * *
@@ -99,7 +104,7 @@ _(JUL 2020 - AUG 2020)_ <br>
 - Chatted with supply chain business leaders to interact with individuals in the industry. 
 - Discussed the transferability of skills from the PhD to business/supply chain.
 - Participated as Operations Lead in a supply chain simulation where my team and I placed second overall.	
-<br>
+<br><br>
 
 **GRADUATE RESEARCHER--rotation** | [Guo Huang Lab](https://www.cvri.ucsf.edu/~huang/lab/Research.html) @ UCSF<br>
 _(APR 2016 - JUN 2016)_ <br>
@@ -107,7 +112,8 @@ Area of Research: Regenerative Potential of Cardiomyocytes<br>
 - Performed heart explants for cell culture and subsequent drug studies for the purpose of exploring organ regeneration and repair in neonatal mice—with an emphasis on the pathways that regulate resident stem cell activation and mature cell de-differentiation/proliferation. 
 - Explored organ regeneration and development from an evolutionary standpoint across different species of animals i.e. naked mole rat, finch, rat, mouse, zebrafish.
 - Utilized innovative and integrated approaches in engineering, single cell analysis, advanced imaging microscopy, drug delivery, and genome manipulation technology.
-<br>
+
+<br><br>
 
 **GRADUATE RESEARCHER--rotation** | [Dengke Ma Lab](https://malab.ucsf.edu/research) @ UCSF<br>
 _(SEP 2015 - DEC 2015)_ <br>
@@ -115,7 +121,8 @@ Area of Research: Homeostatic Response to Extreme Abiotic Factors<br>
 - Created a functional mutant line in C. elegans via cDNA microinjections and exposed the mutants to extreme abiotic environments via behavioral assays to understand cellular intrinsic tolerance of hypoxia/anoxia and hypothermia.
 - Utilized RNA-seq to identify genes implicated in cryopreservation/hypoxia-tolerance with therapeutic potential.
 - Obtained qualitative behavioral data on how animals sensed and responded to changes in internal states to elicit behavior and maintain homeostasis.
-<br>
+
+<br><br>
 
 **RESEARCH FELLOWSHIP: [UCLEADS](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html) & [STARS](https://grad.ucsd.edu/diversity/programs/stars/index.html)** | [Andrew D. Huberman Lab](https://hubermanlab.com/about/) @ UCSD<br>
 _(SEP 2012 - JUL 2015)_ <br>
@@ -127,7 +134,8 @@ Area of Research: Binocular Plasticity & Dynamic Strategy Implementation in Cutt
 - Optimized tracking and analysis of dynamical eye movements using multi-planar high-speed imaging and Simi Motion software.
   - Increased productivity and output by 40%
 - 3D-reconstructed neuron structure for morphometric analysis using Neurolucida. 
-<br>
+
+<br><br>
 
 **RESEARCH FELLOWSHIP: [UCSF SRTP](https://graduate.ucsf.edu/srtp)** | [David R. Copenhagen Lab](https://neurograd.ucsf.edu/people/david-copenhagen-phd) @ UCSF<br>
 _(JUN 2014 - SEP 2014)_ <br>
@@ -135,8 +143,8 @@ Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during re
 - Explored the effects of light dependent Ca<sup>2+</sup> waves in the developing mouse retina with a focus on the coupling of amacrine cells to melanopsin ganglion cells via gap junctions. 
 - Characterized appropriate transgenic lines and established baseline comparisons in adult retina to observe and document deviations from the developed animal to the developing animal.
 - Performed retinal dissections for cell coupling studies.
-<br>
 
+<br><br>
 
 ## MENTORSHIP | DIVERSITY
 * * *
@@ -147,6 +155,7 @@ _(JUN 2026 - SEP 2021)_ <br>
   1. data analyst @[BoxLunch](https://www.boxlunch.com/homepage?cm_mmc=SEM-_-GGL-_-BR-_-DMY-_-541787926_57911524309&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP-FK2iMX9GHn7rNmiIQvYcnjXlKJkunprrDSj0u4bnXOVlWWHPe9YBoC1TMQAvD_BwE)
   2. research scientist @[Alkahest](https://www.alkahest.com/)
   3. applying to medical school
+
 <br>
 
 **STUDENT ADVISOR** @ [UCSF SRTP](https://graduate.ucsf.edu/srtp)<br>
@@ -156,12 +165,14 @@ _(JUN 2019 - AUG 2019)_ <br>
  - how to create compelling posters and presentations
  - how to write personal statements
  - how to read and dissect scientific papers
+
 <br>
 
 **STUDENT TEACHER** @ [UCSF Science and Health Education Partnership](https://sep.ucsf.edu/what-we-do/)<br>
 _(JAN 2016 - JUN 2016)_ <br>
 - Created and developed a series of interactive and investigative lesson plans to teach freshman biology.
 - Mentored URMs and socioeconomically disadvantaged students on different career paths in science.
+
 <br>
 
 **UC LEADERSHIP EXCELLENCE THROUGH ADVANCED DEGREES SCHOLAR SCHOLAR (UCLEADS)** @ [UCSD](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html) <br>
@@ -170,8 +181,8 @@ _(MAR 2013 - JUN 2015)_ <br>
 - Two-way avenue: 
   1. Received mentorship from prior two cohorts as part of the incoming cohort
   2. Provided mentorship to the next two cohorts while progressing through the program
-<br>
-    
+
+<br><br><br>    
 
 ## AWARDS
 * * *
@@ -189,13 +200,15 @@ _(MAR 2013 - JUN 2015)_ <br>
 | 2011 | UCSD Provost Honors                                    |
 | 2011 | Kaiser Permanente Student Achievement Award            |
 
-<br>
+<br><br>
 
 ## PUBLICATIONS
 * * *
 **Cheung, V.**, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg, E.H. (2021) [Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01627-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124721016272%3Fshowall%3Dtrue) Cell Reports, 37(12):110131<br>
-<br>
+
 **Cheung, V.** "[Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)" Towards Data Science. Medium, 20 Jun. 2020. Web.<br>
+
+<br><br><br>
 
 ## CONFERENCES
 * * *
@@ -236,6 +249,4 @@ _(MAR 2013 - JUN 2015)_ <br>
 | 2019 | UCSF Poster  | [First Generation to College](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_FG2Cposter.pdf) |
 | 2019 | UCSF Article |[Students Who Are First in Their Family to Attend College Share Stories, Experiences](https://www.ucsf.edu/news/2019/08/415181/students-who-are-first-their-family-attend-college-share-stories-experiences) |
 
-<br> 
-<br> 
-<br> 
+<br><br><br>
