@@ -28,6 +28,7 @@ Characterized gene signature development and refinement for T cell signaling pat
   - Utilized supervised batch correction techniques and unsupervised clustering algorithms (UMAP, topic modeling) to visualize and analyze single cell RNA seq data outputs. 
   - Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.
 <br><br>
+
 **_Technologies used:_**<br>
  - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
  - R (fgsea, SingleCellExperiment, Seurat)<br>
@@ -63,6 +64,7 @@ Designed an audition-based behavioral paradigm to study sensorimotor integration
 - Assembled fiber photometry and optogenetic manipulation equipment to record and perturb neuronal activity in the context of quantitative behavioral assays.
 <br>
 <br>
+
 **_Technologies used:_**<br>
  - CAD Software (Onshape, Cura, eMachineShop)
  - MATLAB
@@ -81,6 +83,7 @@ Developed a predictive clinical calculator to assess Acute Kidney Injury in hosp
 - Medium Article in Towards Data Science: [Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)
 <br>
 <br>
+
 **_Technologies used:_**<br>
  - Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)
  - AWS (EC2, S3, Route 53)
