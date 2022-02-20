@@ -45,6 +45,7 @@ Developed a multiplexed, high-throughput, single-cell sequencing method for neur
   - Evaluated range of highly variable genes expressed per cluster for the validation of cell identity
 - Managed collaborations with the Chan-Zuckerberg Biohub (Spyros Darmanis Group, now @ Genentech)
 <br><br>
+
 **_Technologies used:_**<br>
  - AWS (EC2/S3)
  - Linux, bash, CellRanger
