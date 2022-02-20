@@ -190,6 +190,7 @@ _(MAR 2013 - JUN 2015)_ <br>
 ## PUBLICATIONS
 * * *
 **Cheung, V.**, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg, E.H. (2021) [Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01627-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124721016272%3Fshowall%3Dtrue) Cell Reports, 37(12):110131<br>
+<br>
 **Cheung, V.** "[Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)" Towards Data Science. Medium, 20 Jun. 2020. Web.<br>
 
 ## CONFERENCES
