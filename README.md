@@ -27,7 +27,7 @@ Characterized gene signature development and refinement for T cell signaling pat
   - Differential gene expression analysis
   - Utilized supervised batch correction techniques and unsupervised clustering algorithms (UMAP, topic modeling) to visualize and analyze single cell RNA seq data outputs. 
   - Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.
-<br>
+<br><br>
 **_Technologies used:_**<br>
  - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
  - R (fgsea, SingleCellExperiment, Seurat)<br>
