@@ -28,7 +28,9 @@ Characterized gene signature development and refinement for T cell signaling pat
   - Utilized supervised batch correction techniques and unsupervised clustering algorithms (UMAP, topic modeling) to visualize and analyze single cell RNA seq data outputs. 
   - Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.
 <br>
-- **_Technologies used:_** Python: ScanPy, NumPy, scikit-learn, Matplotlib, SciPy. R: fgsea, SingleCellExperiment, Seurat<br>
+- **_Technologies used:_** 
+ - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
+ - R (fgsea, SingleCellExperiment, Seurat)<br>
 <br>
 
 **GRADUATE RESEARCHER IN SINGLE-CELL OMICS, SYSTEMS NEUROSCIENCE** | [Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)<br>
@@ -41,8 +43,15 @@ Developed a multiplexed, high-throughput, single-cell sequencing method for neur
 - Validated clustering results of single-cell sequencing against the [2020 10x sequencing dataset from the Allen Atlas](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) and that the methodology was functional.
   - Evaluated range of highly variable genes expressed per cluster for the validation of cell identity
 - Managed collaborations with the Chan-Zuckerberg Biohub (Spyros Darmanis Group, now @ Genentech)
+<br><br>
+- **_Technologies used:_** 
+ - AWS (EC2/S3)
+ - Linux, bash, CellRanger
+ - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
+ - FIJI, Zen
+ - Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing
+ - stereotaxic surgeries, viral delivery
 <br>
-- **_Technologies used:_** AWS (EC2/S3), Linux, bash, CellRanger, Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy), FIJI, Zen, Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing, stereotaxic surgeries, viral delivery.<br>
 <br>
 Designed an audition-based behavioral paradigm to study sensorimotor integration in the context of mice.
 - Wrote custom software to support custom-built hardware using serial communication between MATLAB and an Arduino microprocessor, which increased productivity by - 6-fold from the parallelization and automation of data acquisition, storage, and analysis.
@@ -53,7 +62,15 @@ Designed an audition-based behavioral paradigm to study sensorimotor integration
 - Performed physiology recordings on brain slices to validate optogenetic and fiber photometry experiments
 - Assembled fiber photometry and optogenetic manipulation equipment to record and perturb neuronal activity in the context of quantitative behavioral assays.
 <br>
-- **_Technologies used:_** CAD Software: Onshape, Cura, eMachineShop, MATLAB, Arduino, FIJI, Zen, stereotaxic surgeries, viral delivery, fiber photometry, optogenetics, immunohistochemistry.
+<br>
+- **_Technologies used:_** 
+ - CAD Software (Onshape, Cura, eMachineShop)
+ - MATLAB
+ - Arduino (Uno)
+ - FIJI, Zen
+ - stereotaxic surgeries, viral delivery, fiber optic implants
+ - fiber photometry, optogenetics
+ - immunohistochemistry
 <br>
 
 **HEALTH DATA SCIENCE FELLOW** | [Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley<br>
@@ -63,7 +80,11 @@ Developed a predictive clinical calculator to assess Acute Kidney Injury in hosp
 - Used supervised machine learning in Python such as regression models from scikit-learn and XGBoost to forecast Acute Kidney Injury, with a predictive accuracy of my model is ~91%.
 - Medium Article in Towards Data Science: [Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)
 <br>
-- **_Technologies used:_** Python: NumPy, scikit-learn, Matplotlib, SciPy, XGBoost. AWS: EC2, S3, Route 53. Streamlit.io
+<br>
+- **_Technologies used:_**
+ - Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)
+ - AWS (EC2, S3, Route 53)
+ - Streamlit
 <br>
     
 ## OTHER EXPERIENCE
@@ -126,11 +147,11 @@ _(JUN 2026 - SEP 2021)_ <br>
 
 **STUDENT ADVISOR** @ [UCSF SRTP](https://graduate.ucsf.edu/srtp)<br>
 _(JUN 2019 - AUG 2019)_ <br>
-Developed curriculum for and taught curriculum to teach rising junior and senior undergraduates on: 
-- how to become a strong graduate school applicant
-- how to create compelling posters and presentations
-- how to write personal statements
-- how to read and dissect scientific papers
+- Developed curriculum for and taught curriculum to teach rising junior and senior undergraduates on: 
+ - how to become a strong graduate school applicant
+ - how to create compelling posters and presentations
+ - how to write personal statements
+ - how to read and dissect scientific papers
 <br>
 
 **STUDENT TEACHER** @ [UCSF Science and Health Education Partnership](https://sep.ucsf.edu/what-we-do/)<br>
