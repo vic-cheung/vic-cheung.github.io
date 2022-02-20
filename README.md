@@ -56,6 +56,7 @@ Developed a multiplexed, high-throughput, single-cell sequencing method for neur
  - Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing
  - stereotaxic surgeries, viral delivery
 
+
 **Project 2**<br>
 Designed an audition-based behavioral paradigm to study sensorimotor integration in the context of mice.<br>
 - Wrote custom software to support custom-built hardware using serial communication between MATLAB and an Arduino microprocessor, which increased productivity by - 6-fold from the parallelization and automation of data acquisition, storage, and analysis.
@@ -94,13 +95,14 @@ Developed a predictive clinical calculator to assess Acute Kidney Injury in hosp
     
 ## OTHER EXPERIENCE
 * * *
-### **DISCOVERY PROGRAM L.E.A.D SUPPLY CHAIN**
-Genentech [Certification](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_SupplyChainCertificate.pdf)<br>
+### **[GENENTECH](https://www.gene.com/) DISCOVERY PROGRAM L.E.A.D SUPPLY CHAIN**
+[Certification](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_SupplyChainCertificate.pdf)<br>
 _JUL 2020 - AUG 2020_ <br>
 - Learned about the fundamentals of supply chain, how the supply chain spans a variety of roles throughout Genentech's delivery of therapies as well as its involvement in providing medication access to underserved communities and its drive towards sustainability. 
 - Chatted with supply chain business leaders to interact with individuals in the industry. 
 - Discussed the transferability of skills from the PhD to business/supply chain.
 - Participated as Operations Lead in a supply chain simulation where my team and I placed second overall.	
+
 <br><br>
 
 ### **GRADUATE RESEARCHER--rotation**
@@ -172,7 +174,7 @@ _JUN 2019 - AUG 2019_ <br>
 
 ### **STUDENT TEACHER**
 [UCSF Science and Health Education Partnership](https://sep.ucsf.edu/what-we-do/)<br>
-_(JAN 2016 - JUN 2016)_ <br>
+_JAN 2016 - JUN 2016_ <br>
 - Created and developed a series of interactive and investigative lesson plans to teach freshman biology.
 - Mentored URMs and socioeconomically disadvantaged students on different career paths in science.
 
