@@ -93,7 +93,7 @@ Developed a predictive clinical calculator to assess Acute Kidney Injury in hosp
     
 ## OTHER EXPERIENCE
 * * *
-**DISCOVERY PROGRAM L.E.A.D SUPPLY CHAIN** | Genentech Certification<br>
+**DISCOVERY PROGRAM L.E.A.D SUPPLY CHAIN** | Genentech [Certification](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_SupplyChainCertificate.pdf)<br>
 _(JUL 2020 - AUG 2020)_ <br>
 - Learned about the fundamentals of supply chain, how the supply chain spans a variety of roles throughout Genentech's delivery of therapies as well as its involvement in providing medication access to underserved communities and its drive towards sustainability. 
 - Chatted with supply chain business leaders to interact with individuals in the industry. 
@@ -233,6 +233,7 @@ _(MAR 2013 - JUN 2015)_ <br>
 
 | Year |              |                |
 |:-----|:-------------|:---------------|
+| 2019 | UCSF Poster  | [First Generation to College](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_FG2Cposter.pdf) |
 | 2019 | UCSF Article |[Students Who Are First in Their Family to Attend College Share Stories, Experiences](https://www.ucsf.edu/news/2019/08/415181/students-who-are-first-their-family-attend-college-share-stories-experiences) |
 
 <br> 
