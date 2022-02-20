@@ -33,7 +33,8 @@ Characterized gene signature development and refinement for T cell signaling pat
 **_Technologies used:_**<br>
  - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
  - R (fgsea, SingleCellExperiment, Seurat)<br>
-<br>
+
+<br><br>
 
 **GRADUATE RESEARCHER IN SINGLE-CELL OMICS, SYSTEMS NEUROSCIENCE** | [Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)<br>
 _(JUL 2016 - DEC 2021)_ <br>
