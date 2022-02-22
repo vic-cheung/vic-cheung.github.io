@@ -1,11 +1,4 @@
-View simple CV layout [here](https://vic-cheung.github.io/simple_cv/).
-
-<!-- [LinkedIn](https://www.linkedin.com/in/victoriacheung/) / [GitHub](https://github.com/vic-cheung/) / [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=8DJJyEIAAAAJ)
-
-[CV PDF](https://docs.google.com/viewer?url=https://github.com/vic-cheung/cv/raw/gh-pages/pdfs/VictoriaCheung_CV.pdf)<br>
-[Resume PDF](https://docs.google.com/viewer?url=https://github.com/vic-cheung/cv/raw/gh-pages/pdfs/VictoriaCheung_Resume.pdf)
-<br><br>
- -->
+View simple CV layout [here](https://vic-cheung.github.io/simple_cv/).<br>
  
 ## EDUCATION
 * * *
@@ -17,7 +10,7 @@ View simple CV layout [here](https://vic-cheung.github.io/simple_cv/).
 
 <br>
 
-Courses:<br>
+Additional Courses:<br>
 
 | Institution                             | Degree        | Area of Study           |                                              |
 |:----------------------------------------|:--------------|:------------------------|----------------------------------------------|
