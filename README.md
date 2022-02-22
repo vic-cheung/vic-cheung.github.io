@@ -18,6 +18,7 @@ View simple CV layout [here](https://vic-cheung.github.io/simple_cv/).
 <br>
 
 Courses:<br>
+
 | Institution                             | Degree        | Area of Study           |                                              |
 |:----------------------------------------|:--------------|:------------------------|----------------------------------------------|
 | Genentech L.E.A.D Discovery Program     | Certification | Supply Chain Management |                                              |
