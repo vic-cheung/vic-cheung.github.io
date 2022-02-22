@@ -1,3 +1,4 @@
+View simple CV layout [here](https://vic-cheung.github.io/simple_cv/).
 <!-- [LinkedIn](https://www.linkedin.com/in/victoriacheung/) / [GitHub](https://github.com/vic-cheung/) / [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=8DJJyEIAAAAJ)
 
 [CV PDF](https://docs.google.com/viewer?url=https://github.com/vic-cheung/cv/raw/gh-pages/pdfs/VictoriaCheung_CV.pdf)<br>
@@ -11,6 +12,11 @@
 |:----------------------------------------|:--------------|:------------------------|----------------------------------------------|
 | University of California, San Francisco | PhD           | Genetics                | Systems Neuroscience                         |
 | University of California, San Diego     | BS            | Microbiology            | minor: Chinese Studies                       |
+
+
+Courses:<br>
+| Institution                             | Degree        | Area of Study           |                                              |
+|:----------------------------------------|:--------------|:------------------------|----------------------------------------------|
 | Genentech L.E.A.D Discovery Program     | Certification | Supply Chain Management |                                              |
 | Cold Spring Harbor Laboratory           |               | Vision                  | _Linking Circuits, Perception, and Behavior_ |
 
