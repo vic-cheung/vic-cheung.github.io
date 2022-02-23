@@ -21,7 +21,7 @@ Additional Courses:<br>
 
 ## CAREER EXPERIENCE
 * * *
-### **ONCOLOGY BIOINFORMATICS & MOLECULAR ONCOLOGY**
+### **Oncology Bioinformatics & Molecular Oncology- PhD Intern**
 [Genentech](https://www.gene.com/)<br>
 _SEP 2021 - Present_ <br>
 Characterized gene signature development and refinement for T cell signaling pathways in cancer models<br>
@@ -38,7 +38,7 @@ Characterized gene signature development and refinement for T cell signaling pat
 
 <br><br>
 
-### **GRADUATE RESEARCHER IN SINGLE-CELL OMICS, SYSTEMS NEUROSCIENCE**
+### **Graduate Researcher in Single-cell Omics, Systems Neuroscience**
 [Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)<br>
 _JUL 2016 - DEC 2021_ <br>
 **Project 1**<br>
@@ -81,7 +81,7 @@ Designed an audition-based behavioral paradigm to study sensorimotor integration
 
 <br><br>
 
-### **HEALTH DATA SCIENCE FELLOW**
+### **Health Data Science FellowW**
 [Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley<br>
 _MAY 2020 - JUL 2020_ <br>
 Developed a predictive clinical calculator to assess Acute Kidney Injury in hospitalized patients, which would result in better management, care/medication dosing, injury prevention, and reduced hospital length of stay, thus freeing up occupied resources and minimizing financial costs to both patient and hospital.
@@ -98,7 +98,7 @@ Developed a predictive clinical calculator to assess Acute Kidney Injury in hosp
     
 ## OTHER EXPERIENCE
 * * *
-### **[GENENTECH](https://www.gene.com/) DISCOVERY PROGRAM L.E.A.D SUPPLY CHAIN**
+### **[Genentech](https://www.gene.com/) Discovery Program L.E.A.D Supply Chain**
 [Certification](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_SupplyChainCertificate.pdf)<br>
 _JUL 2020 - AUG 2020_ <br>
 - Learned about the fundamentals of supply chain, how the supply chain spans a variety of roles throughout Genentech's delivery of therapies as well as its involvement in providing medication access to underserved communities and its drive towards sustainability. 
@@ -108,7 +108,7 @@ _JUL 2020 - AUG 2020_ <br>
 
 <br><br>
 
-### **GRADUATE RESEARCHER--rotation**
+### **Graduate Resarcher--rotation**
 [Guo Huang Lab](https://www.cvri.ucsf.edu/~huang/lab/Research.html) @ UCSF<br>
 _APR 2016 - JUN 2016_ <br>
 Area of Research: Regenerative Potential of Cardiomyocytes<br>
@@ -118,7 +118,7 @@ Area of Research: Regenerative Potential of Cardiomyocytes<br>
 
 <br><br>
 
-### **GRADUATE RESEARCHER--rotation**
+### **Graduate Resarcher--rotation**
 [Dengke Ma Lab](https://malab.ucsf.edu/research) @ UCSF<br>
 _SEP 2015 - DEC 2015_ <br>
 Area of Research: Homeostatic Response to Extreme Abiotic Factors<br>
@@ -128,7 +128,7 @@ Area of Research: Homeostatic Response to Extreme Abiotic Factors<br>
 
 <br><br>
 
-### **RESEARCH FELLOWSHIP: [UCLEADS](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html) & [STARS](https://grad.ucsd.edu/diversity/programs/stars/index.html)**
+### **Research Fellowship: [UCLEADS](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html) & [STARS](https://grad.ucsd.edu/diversity/programs/stars/index.html)**
 [Andrew D. Huberman Lab](https://hubermanlab.com/about/) @ UCSD<br>
 _SEP 2012 - JUL 2015_ <br>
 Area of Research: Binocular Plasticity & Dynamic Strategy Implementation in Cuttlefish <br>
@@ -142,7 +142,7 @@ Area of Research: Binocular Plasticity & Dynamic Strategy Implementation in Cutt
 
 <br><br>
 
-### **RESEARCH FELLOWSHIP: [UCSF SRTP](https://graduate.ucsf.edu/srtp)**
+### **Research Fellowship: [UCSF SRTP](https://graduate.ucsf.edu/srtp)**
 [David R. Copenhagen Lab](https://neurograd.ucsf.edu/people/david-copenhagen-phd) @ UCSF<br>
 _JUN 2014 - SEP 2014_ <br>
 Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during retinal development<br>
@@ -154,7 +154,7 @@ Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during re
 
 ## MENTORSHIP | DIVERSITY
 * * *
-### **MENTOR FOR UNDERGRADUATES**
+### **Mentor for Undergraduates**
 _JUN 2026 - SEP 2021_ <br>
 - Trained and mentored 3 undergraduates on performing research tasks on how to: think independently, plan experiments, perform surgical protocols, and analyze data. Gave career/research advice.
 - Post-graduation outcomes of the 3 undergraduates: 
@@ -164,7 +164,7 @@ _JUN 2026 - SEP 2021_ <br>
 
 <br>
 
-### **STUDENT ADVISOR**
+### **Student Advisor**
 [UCSF SRTP](https://graduate.ucsf.edu/srtp)<br>
 _JUN 2019 - AUG 2019_ <br>
 - Developed curriculum for and taught curriculum to teach rising junior and senior undergraduates on: 
@@ -175,7 +175,7 @@ _JUN 2019 - AUG 2019_ <br>
 
 <br>
 
-### **STUDENT TEACHER**
+### **Student Teacher**
 [UCSF Science and Health Education Partnership](https://sep.ucsf.edu/what-we-do/)<br>
 _JAN 2016 - JUN 2016_ <br>
 - Created and developed a series of interactive and investigative lesson plans to teach freshman biology.
@@ -183,7 +183,7 @@ _JAN 2016 - JUN 2016_ <br>
 
 <br>
 
-### **UC LEADERSHIP EXCELLENCE THROUGH ADVANCED DEGREES SCHOLAR SCHOLAR (UCLEADS)**
+### **UC Leadership Excellence through Advanced Degrees Scholar(UCLEADS)**
 [UCSD](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html) <br>
 _MAR 2013 - JUN 2015_ <br>
 "Mentorship program for underprivileged and socioeconomically disadvantaged undergraduates for success in graduate school to later assume positions of leadership in industry, government, public service, and academia following completion of a doctoral STEM degree"
@@ -193,7 +193,7 @@ _MAR 2013 - JUN 2015_ <br>
 
 <br><br><br>    
 
-## AWARDS
+## HONORS & AWARDS
 * * *
 
 | Year | Title                                                  |
@@ -221,7 +221,7 @@ _MAR 2013 - JUN 2015_ <br>
 
 ## CONFERENCES
 * * *
-#### _SCIENTIFIC_:
+#### _Scientific_:
 
 | Year | Event                                                     | Participation  |                                                    |
 |:-----|:----------------------------------------------------------|:---------------|:---------------------------------------------------|
@@ -241,7 +241,7 @@ _MAR 2013 - JUN 2015_ <br>
 | 2013 | SACNAS National Conference                                | Presenter      | poster presentation                                |
 | 2013 | UCSD STARS Summer Research Conference                     | Presenter      | 15 min talk                                        
 
-#### _DIVERSITY_:
+#### _Diversity and Outreach_:
 
 | Year | Event                                                         | Participation  |          |
 |:-----|:--------------------------------------------------------------|:---------------|:---------|
@@ -250,7 +250,7 @@ _MAR 2013 - JUN 2015_ <br>
 
 <br>
 
-## MEDIA PRESENCE
+## MEDIA FEATURES
 * * *
 
 | Year |              |                |
