@@ -6,6 +6,8 @@ View simple CV layout [here](https://vic-cheung.github.io/simple_cv/).<br>
 | <a href="https://scholar.google.com/citations?user=8DJJyEIAAAAJ&hl=en&authuser=1"><i class="fas fa-graduation-cap"></i> google scholar</a>
 </div>
 
+<br>
+
 ## EDUCATION
 * * *
 
