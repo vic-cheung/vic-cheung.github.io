@@ -1,5 +1,11 @@
 View simple CV layout [here](https://vic-cheung.github.io/simple_cv/).<br>
- 
+
+<div id="webaddress">
+<a href="mailto:victoriakcheung@gmail.com"><i class="fas fa-envelope"></i> email</a>
+| <a href="https://www.linkedin.com/in/victoriacheung"><i class="fab fa-linkedin"></i> linked-in</a>
+| <a href="https://scholar.google.com/citations?user=8DJJyEIAAAAJ&hl=en&authuser=1"><i class="fas fa-graduation-cap"></i> google scholar</a>
+</div>
+
 ## EDUCATION
 * * *
 
