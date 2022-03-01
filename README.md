@@ -35,7 +35,7 @@ Characterized gene signature development and refinement for T cell signaling pat
 - Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.
 
 **_Technologies used:_**<br>
- - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
+ - Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy)
  - R (fgsea, SingleCellExperiment, Seurat)<br>
 
 <br><br>
@@ -56,7 +56,7 @@ Developed a multiplexed, high-throughput, single-cell sequencing method for neur
 **_Technologies used:_**<br>
  - AWS (EC2/S3)
  - Linux, bash, CellRanger
- - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
+ - Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy)
  - FIJI, Zen
  - Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing
  - stereotaxic surgeries, viral delivery
@@ -93,6 +93,7 @@ Developed a predictive clinical calculator to assess Acute Kidney Injury in hosp
 
 **_Technologies used:_**<br>
  - Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)
+ - SQL
  - AWS (EC2, S3, Route 53)
  - Streamlit
  
