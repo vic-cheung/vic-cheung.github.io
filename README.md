@@ -27,7 +27,7 @@ Additional Courses:<br>
 [Genentech](https://www.gene.com/)<br>
 _SEP 2021 - Present_ <br>
 Characterized gene signature development and refinement for T cell signaling pathways in cancer models<br>
-- Wrote a data processing pipeline utilizing Scanpy, Numpy, Pandas, scikit-learn 
+- Wrote a data processing pipeline utilizing Scanpy, Numpy, Pandas, scikit-learn, SciPy 
 - Performed statistical analyses on different drug treatment populations.
   - Gene set enrichment analysis
   - Differential gene expression analysis
