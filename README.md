@@ -23,9 +23,24 @@ Additional Courses:<br>
 
 ## CAREER EXPERIENCE
 * * *
+### **Computational Biologist**
+[Freenome](https://www.freenome.com/about-f)<br>
+_APR 2021 - Present_ <br>
+- Apply bioinformatics, data science, and computational methods to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes. 
+  - Generate new insights and interpretations.
+  - Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.
+- Partner cross-functionally in the scientific planning and execution of collaborative projects, such as molecular and cancer biologists, immunologists, computational biologists, medical affairs, commercial, business development.
+- Execute research projects to model various biological changes resulting from diseases such as cancer, autoimmune disease, and infection with various business partners.
+
+**_Technologies used:_**<br>
+ - Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy, Freenome proprietary software)
+ - R (fgsea, Seurat)<br>
+
+<br><br>
+
 ### **Oncology Bioinformatics & Molecular Oncology- PhD Intern**
 [Genentech](https://www.gene.com/)<br>
-_SEP 2021 - Present_ <br>
+_SEP 2021 - APR 2022_ <br>
 Characterized gene signature development and refinement for T cell signaling pathways in cancer models<br>
 - Wrote a data processing pipeline utilizing Scanpy, Numpy, Pandas, scikit-learn, SciPy 
 - Performed statistical analyses on different drug treatment populations.
@@ -36,7 +51,7 @@ Characterized gene signature development and refinement for T cell signaling pat
 
 **_Technologies used:_**<br>
  - Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy)
- - R (fgsea, SingleCellExperiment, Seurat)<br>
+ - R (fgsea, SingleCellExperiment, Seurat, Genentech proprietary software)<br>
 
 <br><br>
 
