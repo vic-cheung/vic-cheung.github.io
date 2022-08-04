@@ -25,7 +25,7 @@ Additional Courses:<br>
 * * *
 ### **Computational Biologist**
 [Freenome](https://www.freenome.com/about-f)<br>
-_APR 2021 - Present_ <br>
+_APR 2022 - Present_ <br>
 - Apply bioinformatics, data science, and computational methods to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes. 
   - Generate new insights and interpretations.
   - Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.
