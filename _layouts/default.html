@@ -25,25 +25,25 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_user_page %}
+<!--         <p class="view"><a href="{{ site.github.owner_url }}"><i class="fab fa-github"></i> GitHub</a></p> -->
         <div id="webaddress">
-        <p class="view"><a href="{{ site.github.owner_url }}"><i class="fab fa-github"></i> GitHub</a></p>
+        <a href="{{ site.github.owner_url }}"><i class="fab fa-github"></i> github</a></p>
+        | <a href="{{ site.github.linkedin_url }}"><i class="fab fa-linkedin"></i> linked-in</a>
+        | <a href="{{ site.github.googlescholar_url }}"><i class="fas fa-thin fa-user-graduate"></i> google scholar</a>
+        </div>
         {% endif %}
 <!--         <p class="view"><a href="{{ site.github.cv_url }}">CV PDF</a></p> -->
 <!--         <p class="view"><a href="{{ site.github.resume_url }}">Resume PDF</a></p> -->
-        </div>
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="{{ site.github.cv_url }}"> <i class="fas fa-solid fa-file-pdf"></i><strong> CV</strong></a></li>
-          <li><a href="{{ site.github.resume_url }}"> <i class="fas fa-regular fa-file-pdf"></i><strong> Resume</strong></a></li>
+          <li><a href="{{ site.github.cv_url }}"> <i class="fas fa-solid fa-file-pdf"></i> CV</a></li>
+          <li><a href="{{ site.github.resume_url }}"> <i class="fas fa-regular fa-file-pdf"></i> Resume</a></li>
         </ul>
         {% endif %}
-      <div id="webaddress">
-      <a href="{{ site.github.linkedin_url }}"><i class="fab fa-linkedin"></i> linked-in</a>
-      | <a href="{{ site.github.googlescholar_url }}"><i class="fas fa-thin fa-user-graduate"></i> google scholar</a>
-      </div>
+
       <div id="webaddress">
       <a href="{{ site.github.twitter_url }}"><i class="fab fa-twitter"></i> twitter</a>
-      | <a href="{{ site.github.instagram_url }}"><i class="fab fa-instagram"></i> 🍊 Creative Outlet</a>
+      | <a href="{{ site.github.instagram_url }}"><i class="fab fa-instagram"></i> creative outlet</a>
       </div>
       </header>
       <section>
