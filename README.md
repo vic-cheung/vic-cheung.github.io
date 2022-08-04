@@ -237,7 +237,7 @@ _MAR 2013 - JUN 2015_ <br>
 
 <br><br><br>
 
-## CONFERENCES
+## CONFERENCES & TALKS
 * * *
 #### _Scientific_:
 
@@ -259,12 +259,13 @@ _MAR 2013 - JUN 2015_ <br>
 | 2013 | SACNAS National Conference                                | Presenter      | poster presentation                                |
 | 2013 | UCSD STARS Summer Research Conference                     | Presenter      | 15 min talk                                        
 
-#### _Diversity and Outreach_:
+#### _Diversity & Outreach_:
 
 | Year | Event                                                         | Participation  |          |
 |:-----|:--------------------------------------------------------------|:---------------|:---------|
-| 2019 | Northern California Forum for Diversity in Graduate Education | Speaker        | 1 hr     |
-| 2018 | Northern California Forum for Diversity in Graduate Education | Speaker        | 1 hr     |
+| 2022 | SRTP Co-Curriculum: What Can You Do With a PhD?               | Panelist       | 1 hr     |
+| 2019 | Northern California Forum for Diversity in Graduate Education | Panelist       | 1 hr     |
+| 2018 | Northern California Forum for Diversity in Graduate Education | Panelist       | 1 hr     |
 
 <br>
 
