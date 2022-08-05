@@ -97,7 +97,7 @@ Designed an audition-based behavioral paradigm to study sensorimotor integration
 
 <br><br>
 
-### **Health Data Science FellowW**
+### **Health Data Science Fellow**
 [Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley<br>
 _MAY 2020 - JUL 2020_ <br>
 Developed a predictive clinical calculator to assess Acute Kidney Injury in hospitalized patients, which would result in better management, care/medication dosing, injury prevention, and reduced hospital length of stay, thus freeing up occupied resources and minimizing financial costs to both patient and hospital.
