@@ -3,6 +3,9 @@
 @import "{{ site.theme }}";
 header {
   h1 {
+    text-align: left;
+  }
+  h2 {
     text-align: right;
   }
   p {
