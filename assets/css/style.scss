@@ -2,9 +2,9 @@
 ---
 @import "{{ site.theme }}";
 header {
-  img {
-    border-radius: 50%;
-  }
+//   img {
+//     border-radius: 50%;
+//   }
   p {
     text-align: center;
   }
@@ -23,6 +23,7 @@ p{
   height:182px
 }
 img {
+  border-radius: 50%;
   width: auto; 
   max-height: 100%; 
   display: block;
