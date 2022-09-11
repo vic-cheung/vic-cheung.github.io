@@ -10,10 +10,11 @@ markdown: kramdown
 show_downloads: true
 github:
   website_url: "https://vic-cheung.github.io/"
-  linkedin_url: https://www.linkedin.com/in/victoriacheung/
-  googlescholar_url: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=8DJJyEIAAAAJ
-  twitter_url: https://twitter.com/victoriakcheung
-  instagram_url: https://www.instagram.com/victoriakcheung/
+  creative_url: "https://vic-cheung.github.io/kitchen_experiments"
+  linkedin_url: "https://www.linkedin.com/in/victoriacheung/"
+  googlescholar_url: "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=8DJJyEIAAAAJ"
+  twitter_url: "https://twitter.com/victoriakcheung"
+  instagram_url: "https://www.instagram.com/victoriakcheung/"
   cv_url: "https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_CV.pdf"
   resume_url: "https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_Resume.pdf"
   neurotree_url: "https://neurotree.org/neurotree/tree.php?pid=730013"
