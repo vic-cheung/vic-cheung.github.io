@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-View simple CV layout [here](https://vic-cheung.github.io/simple_cv/).<br>
+View simple CV layout [here](/pages/simple_cv.html).<br>
 <br>
 
 ## EDUCATION
@@ -233,7 +233,9 @@ _MAR 2013 - JUN 2015_ <br>
 
 ## PUBLICATIONS
 * * *
-**Cheung, V.**, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg, E.H. (2021) [Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01627-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124721016272%3Fshowall%3Dtrue) Cell Reports, 37(12):110131<br>
+**Cheung, V.**, Chung, P., and Feinberg, E.H. (2022) [Transcriptional profiling of mouse projection neurons with VECTORseq](https://doi.org/10.1016/j.xpro.2022.101625) STAR Protocols, 3(3):101625<br>
+
+**Cheung, V.**, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg, E.H. (2021) [Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://doi.org/10.1016/j.celrep.2021.110131) Cell Reports, 37(12):110131<br>
 
 **Cheung, V.** "[Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)" Towards Data Science. Medium, 20 Jun. 2020. Web.<br>
 
