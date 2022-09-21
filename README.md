@@ -5,6 +5,7 @@ I am a computational biologist based in SF Bay Area.<br>
 My interests include: leveraging machine learning to analyze multiomics data for improving patient prognosis, precision medicine, and DEI outreach--in both education and health equity.<br><br>
 
 Prior to this, I obtained my PhD in Genetics at [UCSF](https://tetrad.ucsf.edu/) working in the context of systems neuroscience in [Evan Feinberg's lab](http://www.evanfeinberglab.com/).<br> 
+I performed the majority of both the wet lab and dry lab portions of the research.
 This resulted in 2 first-author publications:<br>
 
 > [*Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.*](https://doi.org/10.1016/j.celrep.2021.110131) Victoria Cheung; Philip Chung; Max Bjorni; Varvara Shvareva; Yesenia Lopez; Evan H Feinberg<br>
