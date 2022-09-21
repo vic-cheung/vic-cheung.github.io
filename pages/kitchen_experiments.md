@@ -3,7 +3,8 @@ layout: default
 ---
 
 
-## <i class="fab fa-instagram"></i> A highlight reel of kitchen experiments 
+## A highlight reel of kitchen experiments 
+## <a> href="{{ "https://www.instagram.com/victoriakcheung/" }}"><i class="fab fa-instagram"></i> Instagram</a>
 <a> href="{{ "https://www.instagram.com/victoriakcheung/" }}"><i class="fab fa-instagram"></i> Instagram</a>
 <br>
 
