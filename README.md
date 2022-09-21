@@ -12,8 +12,8 @@ This resulted in 2 first-author publications:<br>
 > [*Transcriptional profiling of mouse projection neurons with VECTORseq.*](https://doi.org/10.1016/j.xpro.2022.101625) Victoria Cheung; Philip Chung; Evan H Feinberg<br>
 <br>
 
-I spent 2 months in a health data science fellowship where I devised my own research question to independently build a predictive clinical calculator as a deliverable MVP--[blog post](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67?gi=619e89828b8e).<br>
-I spent 6 months at [Genentech](https://www.gene.com/) mentored by [Kevin Walsh](https://www.researchgate.net/profile/Kevin-Walsh-3) and [Robert Piskol](https://scholar.google.com/citations?user=4dgMpSAAAAAJ&hl=en) as an oncology bioinformatics intern; where I characterized gene signature development and refinement for T cell signaling pathways in cancer models.
+During graduate school, I spent 2 months in a health data science fellowship where I devised my own research question to independently build a predictive clinical calculator as a deliverable MVP--[blog post](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67?gi=619e89828b8e).<br>
+I then spent 6 months at [Genentech](https://www.gene.com/) mentored by [Kevin Walsh](https://www.researchgate.net/profile/Kevin-Walsh-3) and [Robert Piskol](https://scholar.google.com/citations?user=4dgMpSAAAAAJ&hl=en) as an oncology bioinformatics intern; where I characterized gene signature development and refinement for T cell signaling pathways in cancer models.
 
 <p>&nbsp;</p>
 **Skills**: Next-Generation Sequencing · Molecular Oncology · Statistics · Data Visualization · Data Science · Cloud Computing · R (Programming Language) · Linux · Bioinformatics · Computational Biology · Python (Programming Language) · Data Analysis · Immunology · Google Cloud Platform (GCP) · Oncology Clinical Research · Machine Learning · Neuroscience · Laboratory Skills · Arduino · Matlab · Amazon EC2 · Amazon S3 · Amazon Web Services (AWS)
