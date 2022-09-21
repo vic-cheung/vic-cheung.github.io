@@ -6,7 +6,7 @@ layout: default
 ## A highlight reel of kitchen experiments 
 
 <div id="webaddress">
-<a href="{{ "https://www.instagram.com/victoriakcheung/" }}"><i class="fab fa-instagram"></i> Instagram</a></div>
+<a href="{{ site.github.instagram_url }}"><i class="fab fa-instagram"></i> Instagram</a></div>
 
 <br>
 
