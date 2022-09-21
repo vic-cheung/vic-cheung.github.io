@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-View simple CV layout [here](https://vic-cheung.github.io/pages/simple_cv.html).<br>
+View simple CV layout [here](https://vic-cheung.github.io/simple_cv).<br>
 <br>
 
 ## EDUCATION
