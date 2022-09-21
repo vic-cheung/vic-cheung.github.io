@@ -11,13 +11,17 @@ style: davewhipp
 show_downloads: true
 github:
   website_url: "https://vic-cheung.github.io/"
-  creative_url: /pages/kitchen_experiments.html
+  
+  embedded_ig_url: /pages/kitchen_experiments.html
+  embedded_twitter_url: /pages/twitter_posts.html
+  embedded_cv_url: /pages/cv.html
+  embedded_neurotree_url: /pages/neurotree.html
+  
   linkedin_url: "https://www.linkedin.com/in/victoriacheung/"
   googlescholar_url: "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=8DJJyEIAAAAJ"
-  twitter_url: /pages/twitter_posts.html
+  twitter_url: "https://twitter.com/victoriakcheung"
   instagram_url: "https://www.instagram.com/victoriakcheung/"
   cv_url: "https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_CV.pdf"
-  embedded_cv_url: /pages/cv.html
   resume_url: "https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_Resume.pdf"
   neurotree_url: "https://neurotree.org/neurotree/tree.php?pid=730013"
-  embedded_neurotree_url: /pages/neurotree.html
+  
