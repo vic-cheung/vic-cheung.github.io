@@ -10,7 +10,7 @@ markdown: kramdown
 show_downloads: true
 github:
   website_url: "https://vic-cheung.github.io/"
-  creative_url: ./creative.html
+  creative_url: ./kitchen_experiments.html
   linkedin_url: "https://www.linkedin.com/in/victoriacheung/"
   googlescholar_url: "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=8DJJyEIAAAAJ"
   twitter_url: "https://twitter.com/victoriakcheung"
