@@ -10,4 +10,4 @@ Graduate Mentor: [Evan H. Feinberg](http://www.evanfeinberglab.com/who-we-are)<b
 </div>
 <br>
 
-<embed src="{{ site.github.neurotree_url }}" style="width:750px; height: 650px;">
+<embed src="{{ site.github.neurotree_url }}" style="width:750px; height: 550px;">
