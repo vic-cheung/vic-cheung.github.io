@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Undergraduate Mentor: [Andrew D. Huberman](https://hubermanlab.com/)<br>
 Graduate Mentor: [Evan H. Feinberg](http://www.evanfeinberglab.com/who-we-are)<br><br>
 
