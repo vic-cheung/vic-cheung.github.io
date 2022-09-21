@@ -6,6 +6,4 @@ Graduate Mentor: [Evan H. Feinberg](http://www.evanfeinberglab.com/who-we-are)<b
 </div>
 <br>
 
-<!-- <embed src="{{ site.github.neurotree_url }}" style="width:750px; height: 550px;"> -->
-
 <iframe src="{{ site.github.neurotree_url }}" width="750px" height="550px" style="border:none;"></iframe>
