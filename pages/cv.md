@@ -1,3 +1,6 @@
+---
+layout: post
+---
 View simple CV layout [here](https://vic-cheung.github.io/simple_cv/).<br>
 <br>
 
