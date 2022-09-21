@@ -1,9 +1,5 @@
 ---
-layout: default
+layout: embed
 ---
 
-## Welcome to another page
-
-_yay_
-
-[back](./)
+## A highlight reel of kitchen experiments
