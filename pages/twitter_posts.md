@@ -4,7 +4,7 @@ layout: default
 
 <br>
 <div id="webaddress">
-<a href="{{ site.github.twitter_url }}"><i class="fab fa-twitter"></i> Twitter</a>
+<a href="{{ site.github.twitter_url }}"><i class="fab fa-twitter"></i> Twitter profile</a>
 </div>
 
 <br>
