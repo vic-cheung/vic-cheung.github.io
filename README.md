@@ -17,4 +17,4 @@ I then spent 6 months at [Genentech](https://www.gene.com/) mentored by [Kevin W
 
 <p>&nbsp;</p>
 **Skills**<br>
-Amazon EC2 · Amazon S3 · Amazon Web Services (AWS) · Arduino · Bioinformatics · Cloud Computing · Computational Biology · Data Analysis · Data Cleaning · Data Science · Data Visualization · Google Cloud Platform (GCP) ·  Immunology · Laboratory Skills · Linux  · Machine Learning · Matlab · Molecular Oncology · Neuroscience · Next-Generation Sequencing · Oncology Clinical Research · Python (Programming Language) ·  R (Programming Language) · Statistics · SQL
+Amazon EC2 · Amazon S3 · Amazon Web Services (AWS) · Arduino · Bioinformatics · Cloud Computing · Computational Biology · Data Analysis · Data Science · Data Visualization · Google Cloud Platform (GCP) ·  Immunology · Laboratory Skills · Linux  · Machine Learning · Matlab · Molecular Oncology · Neuroscience · Next-Generation Sequencing · Oncology Clinical Research · Python (Programming Language) ·  R (Programming Language) · Statistics · SQL
