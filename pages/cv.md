@@ -30,7 +30,7 @@ Additional Courses:<br>
 _APR 2022 - Present_ <br>
 - Apply bioinformatics, data science, and computational methods (including AI/ML techniques) to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes.
   - Generate new insights and interpretations.
-  -Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.
+  - Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.
 - Partner cross-functionally in the scientific planning and execution of collaborative projects, such as molecular and cancer biologists, immunologists, computational biologists, medical affairs, commercial, business development.
 - Execute research projects to model various biological changes resulting from diseases such as cancer, autoimmune disease, and infection with various business partners.
 - Developed a software package for reproducible data analysis for the team.
