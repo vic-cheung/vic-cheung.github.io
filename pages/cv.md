@@ -253,7 +253,7 @@ Vallania, F., **Cheung, V.**, Zamba, MD., Liu, J., Pasupathy, A., Donnella, H., 
 | Year | Event                                                     | Participation  |                                                    |
 |:-----|:----------------------------------------------------------|:---------------|:---------------------------------------------------|
 | 2023 | American Association for Cancer Research (AACR            | Presenter      | poster presentation                                |
-| 2022 | American Society of Hematology (ASH)                      | Presenter      | [poster presentation] (https://www.freenome.com/identification-of-predictive-biomarkers-for-response-of-dlbcl-patients-treated-with-loncastuximab-tesirine)                                |
+| 2022 | American Society of Hematology (ASH)                      | Presenter      | [poster presentation](https://www.freenome.com/identification-of-predictive-biomarkers-for-response-of-dlbcl-patients-treated-with-loncastuximab-tesirine)                                |
 | 2021 | UCSF S.O.L.V.E. Health Tech: Digital Health Equity Summit | Attendee       |                                                    |
 | 2021 | COSYNE (computational and systems neuroscience)           | Attendee       |                                                    |
 | 2018 | UCSF Tetrad                                               | Presenter      | 15 min talk                                        |
