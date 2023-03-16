@@ -28,11 +28,14 @@ Additional Courses:<br>
 ### **Computational Biologist**
 [Freenome](https://www.freenome.com/about-f)<br>
 _APR 2022 - Present_ <br>
-- Apply bioinformatics, data science, and computational methods to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes. 
+- Apply bioinformatics, data science, and computational methods (including AI/ML techniques) to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes.
   - Generate new insights and interpretations.
-  - Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.
+  -Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.
 - Partner cross-functionally in the scientific planning and execution of collaborative projects, such as molecular and cancer biologists, immunologists, computational biologists, medical affairs, commercial, business development.
 - Execute research projects to model various biological changes resulting from diseases such as cancer, autoimmune disease, and infection with various business partners.
+- Developed a software package for reproducible data analysis for the team.
+- Wrote distributed workflows (Flyte) to increase efficiency of scRNAseq alignment and data aggregation from a scale of running for 8 days to half a day. 
+
 
 **_Technologies used:_**<br>
  - Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy, Freenome proprietary software)
@@ -233,6 +236,8 @@ _MAR 2013 - JUN 2015_ <br>
 
 ## PUBLICATIONS
 * * *
+Vallania, F., **Cheung, V.**, Zamba, MD., Liu, J., Pasupathy, A., Donnella, H., Bailey, M., Louie, M., Lin, J., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel, PH.; [Identification of Predictive Biomarkers for Response of R/R DLBCL Patients Treated with Loncastuximab Tesirine Using Low Pass Whole-Genome Sequencing (WGS).](https://ash.confex.com/ash/2022/webprogram/Paper168993.html) Blood 2022; 140 (Supplement 1): 3551–3552. doi: https://doi.org/10.1182/blood-2022-168993
+
 **Cheung, V.**, Chung, P., and Feinberg, E.H. (2022) [Transcriptional profiling of mouse projection neurons with VECTORseq](https://doi.org/10.1016/j.xpro.2022.101625) STAR Protocols, 3(3):101625<br>
 
 **Cheung, V.**, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg, E.H. (2021) [Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://doi.org/10.1016/j.celrep.2021.110131) Cell Reports, 37(12):110131<br>
@@ -247,11 +252,13 @@ _MAR 2013 - JUN 2015_ <br>
 
 | Year | Event                                                     | Participation  |                                                    |
 |:-----|:----------------------------------------------------------|:---------------|:---------------------------------------------------|
+| 2023 | American Association for Cancer Research (AACR            | Presenter      | poster presentation                                |
+| 2022 | American Society of Hematology (ASH)                      | Presenter      | [poster presentation] (https://www.freenome.com/identification-of-predictive-biomarkers-for-response-of-dlbcl-patients-treated-with-loncastuximab-tesirine)                                |
 | 2021 | UCSF S.O.L.V.E. Health Tech: Digital Health Equity Summit | Attendee       |                                                    |
 | 2021 | COSYNE (computational and systems neuroscience)           | Attendee       |                                                    |
 | 2018 | UCSF Tetrad                                               | Presenter      | 15 min talk                                        |
 | 2017 | SFN Annual Conference                                     | Attendee       |                                                    |
-| 2017 | UCSF Tetrad                                               | Presenter      | poster presentation                                |
+| 2017 | UCSF Tetrad                                               | Presenter      | [poster presentation](https://drive.google.com/file/d/1VY1vLNHZ4-AddPjyyCRSl7R-7-u23iEZ/view?usp=sharing)                                |
 | 2016 | UC LEADs Research Symposium                               | Attendee       |                                                    |
 | 2015 | UC LEADs Research Symposium                               | Presenter      | poster presentation                                |
 | 2014 | SFN Annual Conference                                     | Presenter      | poster presentation                                |
