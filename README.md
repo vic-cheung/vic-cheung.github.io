@@ -1,7 +1,7 @@
 # About Me
 
 <br>
-I am a computational biologist based in SF Bay Area.<br>
+I am a computational biologist/health data scientist with over 8 years of experience.<br>
 My interests include: leveraging machine learning to analyze multiomics data for improving patient prognosis, precision medicine, and DEI outreach--in both education and health equity.<br><br>
 
 I obtained my PhD in Genetics at [UCSF](https://tetrad.ucsf.edu/) working in the context of systems neuroscience in [Evan Feinberg's lab](http://www.evanfeinberglab.com/).<br> 
