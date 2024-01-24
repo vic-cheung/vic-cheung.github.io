@@ -4,6 +4,7 @@
 I am a computational biologist/health data scientist with over 8 years of experience.<br>
 My interests include: leveraging machine learning to analyze multiomics data for improving patient prognosis, precision medicine, and DEI outreach--in both education and health equity.<br><br>
 
+I have experience in/worked with: methylation data, fragmentomics (cfDNA)/genomics, proteomics, transcriptomics
 
 <p>&nbsp;</p>
 **Skills**<br>
