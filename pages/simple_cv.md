@@ -246,7 +246,7 @@ __Cheung, V.__ "[Predicting Acute Kidney Injury in Hospitalized Patients Using M
 
 ### Scientific
 `2023`	
-American Association for Cancer Research (AACR) | __Presenter__, poster presentation, [abstract link]((https://aacrjournals.org/cancerres/article/83/7_Supplement/5387/720596)
+American Association for Cancer Research (AACR) | __Presenter__, poster presentation, [abstract link](https://aacrjournals.org/cancerres/article/83/7_Supplement/5387/720596)
 
 `2022`	
 American Society Hematology (ASH) | __Presenter__, [poster presentation](https://ash.confex.com/ash/2022/webprogram/Paper168993.html)
