@@ -53,13 +53,15 @@ __Computational Biologist__<br>
   - (1) Iterated on Freenome’s internal fragmentomics modeling architecture to predict gene activation scores from cfDNA.
   - (2) Wrote distributed workflows (Flyte) to increase efficiency of scRNAseq alignment and data aggregation from a scale of running for 8 days to half a day. 
 - Computational Lead on an internal project that validates and characterizes features of Freenome’s fragmentomics model, 1st author manuscript in progress. 
-- Worked collaboratively on modeling multi-omics plasma data (DNA methylation, proteomics, fragmentomics) to build classifiers for early stage breast cancer detection in partnership with SIEMENS Healthineers, and in DLBCL in partnership with ADCT (ASH 2022 abstract 2nd author, AACR 2023 abstract co-first author)
+- Worked collaboratively on modeling multi-omics plasma data (DNA methylation, proteomics, fragmentomics) to build classifiers for early stage breast cancer detection in partnership with SIEMENS Healthineers, and in DLBCL in partnership with ADCT ([ASH 2022 abstract](https://ash.confex.com/ash/2022/webprogram/Paper168993.html) 2nd author, [AACR 2023 abstract](https://aacrjournals.org/cancerres/article/83/7_Supplement/5387/720596) co-first author)
 - Worked with Freenome’s machine learning models to detect colorectal cancer disease burden from deep methylation sequencing of plasma, performing longitudinal monitoring on patients validated with imaging data (AACR 2024 abstract, co-first author pending publication)
 - Mentored other scientists on the team through technical support, infrastructure support, as well as leading journal club discussions.<br>
 
 ___Technologies used:___<br>
 - Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy, Freenome proprietary software)<br>
 - R (fgsea, Seurat)<br>
+- flyte
+- AppScript
 
 <br><br>
 
