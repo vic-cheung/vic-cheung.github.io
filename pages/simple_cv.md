@@ -231,7 +231,7 @@ __UC Leadership Through Advanced Degrees Scholar (UCLEADS)__,
   1. Provided mentorship to the next two cohorts while progressing through the program<br>
 
 ## Publications
-`*` denotes equal contribution
+ __*__ denotes equal contribution
 
 Vallania, F. *, __Cheung, V.__ *, Tripathi, A., Louie, M., Snyder, T., Lin, J., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel P.H.; (2023) [Discovery of plasma protein biomarkers associated with overall survival in R/R DLBCL patients treated with loncastuximab tesirine.](https://aacrjournals.org/cancerres/article/83/7_Supplement/5387/720596) Cancer Res 1 April 2023; 83 (7_Supplement): 5387. https://doi.org/10.1158/1538-7445.AM2023-5387<br>
 
