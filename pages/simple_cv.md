@@ -65,7 +65,7 @@ ___Technologies used:___<br>
 
 <br><br>
 
-`SEP 2021 - Present`
+`SEP 2021 - APR 2022`
 *[Genentech](https://www.gene.com/)*<br>
 __Oncology Bioinformatics & Molecular Oncology PhD Intern__<br>
 - Characterized gene signature development and refinement for T cell signaling pathways in cancer models<br>
@@ -231,6 +231,8 @@ __UC Leadership Through Advanced Degrees Scholar (UCLEADS)__,
   1. Provided mentorship to the next two cohorts while progressing through the program<br>
 
 ## Publications
+`*` denotes equal contribution
+
 Vallania, F. *, __Cheung, V.__ *, Tripathi, A., Louie, M., Snyder, T., Lin, J., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel P.H.; (2023) [Discovery of plasma protein biomarkers associated with overall survival in R/R DLBCL patients treated with loncastuximab tesirine.](https://aacrjournals.org/cancerres/article/83/7_Supplement/5387/720596) Cancer Res 1 April 2023; 83 (7_Supplement): 5387. https://doi.org/10.1158/1538-7445.AM2023-5387<br>
 
 Vallania, F., __Cheung, V.__, Zamba, MD., Liu, J., Pasupathy, A., Donnella, H., Bailey, M., Louie, M., Lin, J., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel, PH.; [Identification of Predictive Biomarkers for Response of R/R DLBCL Patients Treated with Loncastuximab Tesirine Using Low Pass Whole-Genome Sequencing (WGS).](https://ash.confex.com/ash/2022/webprogram/Paper168993.html) Blood 2022; 140 (Supplement 1): 3551–3552. doi: https://doi.org/10.1182/blood-2022-168993<br>
