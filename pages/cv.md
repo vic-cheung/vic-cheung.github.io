@@ -30,11 +30,16 @@ Additional Courses:<br>
 _APR 2022 - Present_ <br>
 - Apply bioinformatics, data science, and computational methods (including AI/ML techniques) to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes.
   - Generate new insights and interpretations.
-  - Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.
+- Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.
 - Partner cross-functionally in the scientific planning and execution of collaborative projects, such as molecular and cancer biologists, immunologists, computational biologists, medical affairs, commercial, business development.
-- Execute research projects to model various biological changes resulting from diseases such as cancer, autoimmune disease, and infection with various business partners.
-- Developed a software package for reproducible data analysis for the team.
-- Wrote distributed workflows (Flyte) to increase efficiency of scRNAseq alignment and data aggregation from a scale of running for 8 days to half a day. 
+- Execute research projects to model various biological changes resulting from diseases such as cancer, autoimmune disease, and infection with various business partners. (Publicly disclosed partners include: SIEMENS Healthineers, ADCT).
+- Developed 2 software packages for reproducible data analysis for the team.
+  - (1) Iterated on Freenome’s internal fragmentomics modeling architecture to predict gene activation scores from cfDNA.
+  - (2) Wrote distributed workflows (Flyte) to increase efficiency of scRNAseq alignment and data aggregation from a scale of running for 8 days to half a day. 
+- Computational Lead on an internal project that validates and characterizes features of Freenome’s fragmentomics model, 1st author manuscript in progress. 
+- Worked collaboratively on modeling multi-omics plasma data (DNA methylation, proteomics, fragmentomics) to build classifiers for early stage breast cancer detection in partnership with SIEMENS Healthineers, and in determining predictive biomarkers for overall survival in DLBCL in partnership with ADCT ([ASH 2022 abstract](https://ash.confex.com/ash/2022/webprogram/Paper168993.html) 2nd author, [AACR 2023 abstract](https://aacrjournals.org/cancerres/article/83/7_Supplement/5387/720596) co-first author)
+- Worked with Freenome’s machine learning models to detect colorectal cancer disease burden from deep methylation sequencing of plasma, performing longitudinal monitoring on patients validated with imaging data (AACR 2024 abstract, co-first author pending publication)
+- Mentored other scientists on the team through technical support, infrastructure support, as well as leading journal club discussions.<br>
 
 
 **_Technologies used:_**<br>
@@ -236,6 +241,10 @@ _MAR 2013 - JUN 2015_ <br>
 
 ## PUBLICATIONS
 * * *
+ __*__ denotes equal contribution
+
+Vallania, F. *, __Cheung, V.__ *, Tripathi, A., Louie, M., Snyder, T., Lin, J., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel P.H.; (2023) [Discovery of plasma protein biomarkers associated with overall survival in R/R DLBCL patients treated with loncastuximab tesirine.](https://aacrjournals.org/cancerres/article/83/7_Supplement/5387/720596) Cancer Res 1 April 2023; 83 (7_Supplement): 5387. https://doi.org/10.1158/1538-7445.AM2023-5387<br>
+
 Vallania, F., **Cheung, V.**, Zamba, MD., Liu, J., Pasupathy, A., Donnella, H., Bailey, M., Louie, M., Lin, J., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel, PH.; [Identification of Predictive Biomarkers for Response of R/R DLBCL Patients Treated with Loncastuximab Tesirine Using Low Pass Whole-Genome Sequencing (WGS).](https://ash.confex.com/ash/2022/webprogram/Paper168993.html) Blood 2022; 140 (Supplement 1): 3551–3552. doi: https://doi.org/10.1182/blood-2022-168993
 
 **Cheung, V.**, Chung, P., and Feinberg, E.H. (2022) [Transcriptional profiling of mouse projection neurons with VECTORseq](https://doi.org/10.1016/j.xpro.2022.101625) STAR Protocols, 3(3):101625<br>
