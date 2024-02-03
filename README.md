@@ -1,10 +1,11 @@
 # About Me
 
 <br>
-I am a computational biologist/health data scientist with over 8 years of experience.<br>
-My interests include: leveraging machine learning to analyze multiomics data for improving patient prognosis, precision medicine, and DEI outreach--in both education and health equity.<br><br>
-
-I have experience in/worked with: methylation data, fragmentomics (cfDNA)/genomics, proteomics, transcriptomics
+- Interdisciplinary computational biologist with a proven track record of leveraging advanced algorithms and computational techniques to tackle complex biological problems. 
+- Experienced in analyzing multimodal large-scale biological data sets and utilizing EHR data to develop predictive models, and to identify novel patterns to drive breakthrough discoveries.
+- Skilled in programming languages such as Python with a deep understanding of statistical analysis, machine learning, and data visualization. 
+- Experienced in collaborating with interdisciplinary teams to translate biological questions into computational solutions, leading to impactful research outcomes.
+- Passionate about harnessing the power of computational biology to revolutionize healthcare and advance scientific understanding.
 
 <p>&nbsp;</p>
 **Skills**<br>
