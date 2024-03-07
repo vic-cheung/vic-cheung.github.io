@@ -80,7 +80,7 @@ ___Technologies used:___<br>
 
 <br><br>
 
-`JUL 2016 - DEC 2021`
+`JUL 2016 - SEP 2021`
 *[Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)*<br>
 __Graduate Resarcher in Single-cell Omics, Systems Neuroscience__<br>
 __Project 1__<br>
