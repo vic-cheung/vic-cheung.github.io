@@ -67,7 +67,7 @@ Characterized gene signature development and refinement for T cell signaling pat
 
 ### **Graduate Researcher in Single-cell Omics, Systems Neuroscience**
 [Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)<br>
-_JUL 2016 - DEC 2021_ <br>
+_JUL 2016 - SEP 2021_ <br>
 **Project 1**<br>
 Developed a multiplexed, high-throughput, single-cell sequencing method for neurons that preserve connectivity information in addition to obtaining molecular identity (VECTORseq). Git Repo [here](https://github.com/vic-cheung/vectorseq).
 - Wrote the data processing pipeline using Python after genome alignment using Cellranger (10x Genomics) on an AWS EC2 instance.
