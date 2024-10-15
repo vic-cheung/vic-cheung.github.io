@@ -8,7 +8,7 @@ logo: /assets/img/hs.png
 description: Computational Biologist | Data Scientist
 markdown: kramdown
 style: davewhipp
-show_downloads: true
+show_downloads: false
 github:
   website_url: "https://vic-cheung.github.io/"
   
