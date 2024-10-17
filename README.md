@@ -1,11 +1,11 @@
 # About Me
 
 <br>
-- Interdisciplinary computational biologist with a proven track record of leveraging advanced algorithms and computational techniques to tackle complex biological problems. 
-- Experienced in analyzing multimodal large-scale biological data sets and utilizing EHR data to develop predictive models, and to identify novel patterns to drive breakthrough discoveries.
-- Skilled in programming languages such as Python with a deep understanding of statistical analysis, machine learning, and data visualization. 
-- Experienced in collaborating with interdisciplinary teams to translate biological questions into computational solutions, leading to impactful research outcomes.
-- Passionate about harnessing the power of computational biology to revolutionize healthcare and advance scientific understanding.
+- Interdisciplinary computational biologist with expertise in multimodal biological data analysis, machine learning models, and bioinformatics tools.
+- Experienced in high-throughput NGS data processing, predictive modeling using EHR data, and the integration of multi-omic datasets.
+- Proficient in Python, R, and MATLAB for statistical analysis and data visualization.
+- Passionate about transforming healthcare through computational solutions and advancing scientific discoveries.
+- Proven leadership in cross-functional collaborations and mentoring teams.
 
 <p>&nbsp;</p>
 **Skills**<br>
