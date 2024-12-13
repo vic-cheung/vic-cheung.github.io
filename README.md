@@ -1,8 +1,26 @@
 # About Me
 
 <br>
-Interdisciplinary Data Scientist with expertise in computational biology and machine learning. Proficient in Python, R, and MATLAB to analyze complex biological data, including genomics, transcriptomics, and proteomics. Experienced in developing and deploying scalable data pipelines, and collaborating with cross-functional teams to drive impactful solutions in healthcare. Passionate about leveraging data science to advance scientific discovery and improve patient outcomes.
+I am an interdisciplinary data scientist with a PhD in Genetics, specializing in computational biology, multi-omics analysis, and machine learning. I have hands-on experience developing scalable data pipelines, integrating genomics, transcriptomics, and proteomics data, and deploying machine learning models for cancer detection, disease monitoring, and evaluating treatment response. I work with cross-functional teams to apply data science in driving scientific discovery and innovation.
 
-<p>&nbsp;</p>
-**Skills**<br>
-Amazon EC2 · Amazon S3 · Amazon Web Services (AWS) · Arduino · Bioinformatics · Cloud Computing · Computational Biology · Data Analysis · Data Science · Data Visualization · Distributed workflows · Google Cloud Platform (GCP) ·  Immunology · Laboratory Skills · Linux  · Machine Learning · Matlab · Molecular Oncology · Neuroscience · Next-Generation Sequencing · Oncology Clinical Research · Python (Programming Language) ·  R (Programming Language) · Statistics · SQL
+### **TECHNICAL SKILLS**
+**Programming Languages:**  
+Python, R, MATLAB, SQL (PostgreSQL)
+
+**Machine Learning:**  
+Supervised and unsupervised techniques (e.g., SVM, Random Forest, Boosted Trees, softmax, LDA, NMF), hyperparameter tuning, model evaluation
+
+**Data Science & Analytics:**  
+Multi-omics data analysis, feature engineering, data preprocessing, statistical analysis, cross-validation, model deployment, data fusion
+
+**Bioinformatics:**  
+CellRanger, BedTools, ScanPy, fgsea
+
+**Cloud Computing & Tools:**  
+AWS, GCP, Azure, Flyte, Conda, Poetry, UV
+
+**Frameworks & Libraries:**  
+PyTorch, scikit-learn, Pandas, NumPy, SHAP, Matplotlib, Seaborn
+
+**Operating Systems:**  
+Linux (Ubuntu, CentOS), macOS
