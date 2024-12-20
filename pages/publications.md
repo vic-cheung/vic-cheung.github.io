@@ -5,16 +5,16 @@
 
 ## 2024
 ---
-Herault, A, et al., __Cheung, V.__  "[NKG2D-bispecific enhances NK and CD8+ T cell antitumor immunity.](https://doi.org/10.1007/s00262-024-03795-2)" Cancer Immunology, Immunotherapy 73.10 (2024): 1-16.
+Herault, A, et al., __Cheung, V.__, "[NKG2D-bispecific enhances NK and CD8+ T cell antitumor immunity.](https://doi.org/10.1007/s00262-024-03795-2)" Cancer Immunology, Immunotherapy 73.10 (2024): 1-16.
 <br>
 <br>
 
 
-Tang, A.D.*, Gupte, R.*, __Cheung, V.*__ , Qing, T.*, et al "[Noninvasive longitudinal monitoring of residual disease in chemotherapy-treated colorectal cancer patients.](https://doi.org/10.1158/1538-7445.AM2024-6258)" Cancer Research 84(6): 6258.<br>
+Tang, A.D.* , Gupte, R.* , __Cheung, V.*__ , Qing, T.*, et al "[Noninvasive longitudinal monitoring of residual disease in chemotherapy-treated colorectal cancer patients.](https://doi.org/10.1158/1538-7445.AM2024-6258)" Cancer Research 84(6): 6258.<br>
 <br>
 
 
-Leff, E.*, Tseng, A.*, __Cheung, V.*__ , et al. "[Inference of gene expression using fragmentation patterns from targeted high-depth sequencing of cell-free DNA.](https://doi.org/10.1158/1538-7445.AM2024-4788)" Cancer Research, 84(6_Supplement), 2024, 4788.
+Leff, E.* , Tseng, A.* , __Cheung, V.__, et al. "[Inference of gene expression using fragmentation patterns from targeted high-depth sequencing of cell-free DNA.](https://doi.org/10.1158/1538-7445.AM2024-4788)" Cancer Research, 84(6_Supplement), 2024, 4788.
 <br>
 <br>
 
@@ -22,7 +22,7 @@ Leff, E.*, Tseng, A.*, __Cheung, V.*__ , et al. "[Inference of gene expression u
 
 ## 2023
 ---
-Vallania, F. *, __Cheung, V.*__ , Tripathi, A., Louie, M., Snyder, T., Lin, J., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel P.H.; (2023) "[Discovery of plasma protein biomarkers associated with overall survival in R/R DLBCL patients treated with loncastuximab tesirine.](https://aacrjournals.org/cancerres/article/83/7_Supplement/5387/720596)" Cancer Res 1 April 2023; 83 (7_Supplement): 5387.
+Vallania, F.* , __Cheung, V.*__ , Tripathi, A., Louie, M., Snyder, T., Lin, J., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel P.H.; (2023) "[Discovery of plasma protein biomarkers associated with overall survival in R/R DLBCL patients treated with loncastuximab tesirine.](https://aacrjournals.org/cancerres/article/83/7_Supplement/5387/720596)" Cancer Res 1 April 2023; 83 (7_Supplement): 5387.
 <br>
 <br>
 
