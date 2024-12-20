@@ -10,7 +10,7 @@ Herault, A, et al., __Cheung, V.__, "[NKG2D-bispecific enhances NK and CD8+ T ce
 <br>
 
 
-Tang, A.D.* , Gupte, R.* , __Cheung, V.*__ , Qing, T., et al. "[Noninvasive longitudinal monitoring of residual disease in chemotherapy-treated colorectal cancer patients.](https://doi.org/10.1158/1538-7445.AM2024-6258)" Cancer Research 84(6): 6258.<br>
+Tang, A.D.* , Gupte, R.* , __Cheung, V.*__ , Qing, T.* , et al. "[Noninvasive longitudinal monitoring of residual disease in chemotherapy-treated colorectal cancer patients.](https://doi.org/10.1158/1538-7445.AM2024-6258)" Cancer Research 84(6): 6258.<br>
 <br>
 
 
