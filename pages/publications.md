@@ -23,26 +23,26 @@ Leff, E.* , Tseng, A.* , __Cheung, V.__, Tabari, E., Walter, K., Lovejoy, A., Li
 
 ## 2023
 ---
-Vallania, F.* , __Cheung, V.*__ , Tripathi, A., Louie, M., Snyder, T., Lin, J., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel P.H.; "[Discovery of plasma protein biomarkers associated with overall survival in R/R DLBCL patients treated with loncastuximab tesirine.](https://aacrjournals.org/cancerres/article/83/7_Supplement/5387/720596)" Cancer Res 1 April 2023; 83 (7_Supplement): 5387.
+Vallania, F.* , __Cheung, V.*__ , Tripathi, A., Louie, M., Snyder, T., Lin, CHJ., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel P.H.; "[Discovery of plasma protein biomarkers associated with overall survival in R/R DLBCL patients treated with loncastuximab tesirine.](https://aacrjournals.org/cancerres/article/83/7_Supplement/5387/720596)" Cancer Res 1 April 2023; 83 (7_Supplement): 5387.
 <br>
 <br>
 
 
 ## 2022
 ---
-Vallania, F., __Cheung, V.__, Zamba, MD., Liu, J., Pasupathy, A., Donnella, H., Bailey, M., Louie, M., Lin, J., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel, PH.; [Identification of Predictive Biomarkers for Response of R/R DLBCL Patients Treated with Loncastuximab Tesirine Using Low Pass Whole-Genome Sequencing (WGS).](https://ash.confex.com/ash/2022/webprogram/Paper168993.html)" Blood 2022; 140 (Supplement 1): 3551–3552.
+Vallania, F., __Cheung, V.__, Zamba, MD., Liu, J., Pasupathy, A., Donnella, H., Bailey, M., Louie, M., Lin, CHJ., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel, PH.; [Identification of Predictive Biomarkers for Response of R/R DLBCL Patients Treated with Loncastuximab Tesirine Using Low Pass Whole-Genome Sequencing (WGS).](https://ash.confex.com/ash/2022/webprogram/Paper168993.html)" Blood 2022; 140 (Supplement 1): 3551–3552.
 <br>
 <br>
 
 
-__Cheung, V.__, Chung, P., and Feinberg, E.H. (2022) "[Transcriptional profiling of mouse projection neurons with VECTORseq](https://doi.org/10.1016/j.xpro.2022.101625)" STAR Protocols, 3(3):101625
+__Cheung, V.__, Chung, P., and Feinberg, EH. (2022) "[Transcriptional profiling of mouse projection neurons with VECTORseq](https://doi.org/10.1016/j.xpro.2022.101625)" STAR Protocols, 3(3):101625
 <br>
 <br>
 
 
 ## 2021
 ---
-__Cheung, V.__, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg, E.H. (2021) "[Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://doi.org/10.1016/j.celrep.2021.110131)" Cell Reports, 37(12):110131
+__Cheung, V.__, Chung, P., Bjorni, M.* , Shvareva, VA.* , Lopez, YC., and Feinberg, EH. (2021) "[Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://doi.org/10.1016/j.celrep.2021.110131)" Cell Reports, 37(12):110131
 <br>
 <br>
 
@@ -56,7 +56,7 @@ __Cheung, V.__ "[Predicting Acute Kidney Injury in Hospitalized Patients Using M
 
 ## 2014
 ---
-__Cheung, V.__, Mullins, O., Nguyen, P., Huberman, A.D. "Extreme binocular plasticity and dynamic strategy implementation supports vision-dependent prey capture in cuttlefish." Proceedings of the SACNAS National Conference, 2014, p. 1159.
+__Cheung, V.__, Mullins, O., Nguyen, P., Huberman, AD. "Extreme binocular plasticity and dynamic strategy implementation supports vision-dependent prey capture in cuttlefish." Proceedings of the SACNAS National Conference, 2014, p. 1159.
 <br>
 <br>
 
