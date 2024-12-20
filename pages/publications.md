@@ -30,7 +30,7 @@ Vallania, F.* , __Cheung, V.*__ , Tripathi, A., Louie, M., Snyder, T., Lin, CHJ.
 
 ## 2022
 ---
-Vallania, F., __Cheung, V.__, Zamba, MD., Liu, J., Pasupathy, A., Donnella, H., Bailey, M., Louie, M., Lin, CHJ., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel, PH.; [Identification of Predictive Biomarkers for Response of R/R DLBCL Patients Treated with Loncastuximab Tesirine Using Low Pass Whole-Genome Sequencing (WGS).](https://ash.confex.com/ash/2022/webprogram/Paper168993.html)" Blood 2022; 140 (Supplement 1): 3551–3552.
+Vallania, F., __Cheung, V.__, Zamba, MD., Liu, J., Pasupathy, A., Donnella, H., Bailey, M., Louie, M., Lin, CHJ., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel, PH.; "[Identification of Predictive Biomarkers for Response of R/R DLBCL Patients Treated with Loncastuximab Tesirine Using Low Pass Whole-Genome Sequencing (WGS).](https://ash.confex.com/ash/2022/webprogram/Paper168993.html)" Blood 2022; 140 (Supplement 1): 3551–3552.
 <br>
 <br>
 
