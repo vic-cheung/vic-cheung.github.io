@@ -1,6 +1,13 @@
-## Publications
- __*__ denotes equal contribution
- ---
+# Publications
+<br>
+<br>
+
+
+---
+
+### __*__ denotes equal contribution
+
+---
 
 Herault, A, et al., __Cheung, V.__  "[NKG2D-bispecific enhances NK and CD8+ T cell antitumor immunity.](https://doi.org/10.1007/s00262-024-03795-2)" Cancer Immunology, Immunotherapy 73.10 (2024): 1-16.<br>
 
