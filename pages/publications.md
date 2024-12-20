@@ -1,8 +1,5 @@
 # Publications
 #### __*__ denotes equal contribution
-<br>
-<br>
-
 
 ## 2024
 ---
