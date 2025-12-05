@@ -3,6 +3,8 @@
 
 Leff, E., Tseng, A., __Cheung, V.__, Gupte, R., Tabari, E., Vallania, F., Donnella, H., St. John, J., Lovejoy, A., Ulz, P. "[Methods and systems for inferring gene expression using cell-free DNA fragments.](https://patents.google.com/patent/US20250305061A1)" US Patent Application US20250305061A1, filed March 27, 2025, pending. *Freenome Holdings, Inc.*  
 Computational methods for inferring gene expression from cell-free DNA sequencing data.
+
+
 <br>
 <br>
 <br>
@@ -16,9 +18,14 @@ Computational methods for inferring gene expression from cell-free DNA sequencin
 ## 2025
 ---
 Reck, M., Gupte, R., Qing, T., __Cheung, V.__, Tang, A.D., et al. "[Machine learning classification of small cell lung cancer using plasma multiomics in IMPower133.](https://doi.org/10.1016/j.annonc.2025.08.3401)" *Annals of Oncology*.  
+<br>
+<br>
+
 
 Cauwels, A.* , Levy, E.* , Tang, AD.* , __Cheung, V.*__ , et al. "[Plasma-based multimodal profiling of urothelial carcinoma to characterize tissue-based subtypes.](https://doi.org/10.1158/1538-7445.AM2025-3679)" *Cancer Research* 85(8_Supplement_1): 3679.  
 <br>
+<br>
+
 
 ## 2024
 ---
@@ -35,7 +42,6 @@ Tang, AD.* , Gupte, R.* , __Cheung, V.*__ , Qing, T. * , Cauwels, A., Leff, E., 
 Leff, E.* , Tseng, A.* , __Cheung, V.__, Tabari, E., Walter, K., Lovejoy, A., Lin, CHJ. "[Inference of gene expression using fragmentation patterns from targeted high-depth sequencing of cell-free DNA.](https://doi.org/10.1158/1538-7445.AM2024-6258)" Cancer Research, 84(6_Supplement), 2024, 4788.
 <br>
 <br>
-
 
 
 ## 2023
