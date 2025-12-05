@@ -4,6 +4,7 @@
 Leff, E., Tseng, A., __Cheung, V.__, Gupte, R., Tabari, E., Vallania, F., Donnella, H., St. John, J., Lovejoy, A., Ulz, P. "[Methods and systems for inferring gene expression using cell-free DNA fragments.](https://patents.google.com/patent/US20250305061A1)" US Patent Application US20250305061A1, filed March 27, 2025, pending. *Freenome Holdings, Inc.*  
 Computational methods for inferring gene expression from cell-free DNA sequencing data.
 <br>
+<br>
 
 
 # Publications
