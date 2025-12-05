@@ -3,7 +3,7 @@ layout: plain_cv
 title: Victoria Cheung, PhD
 ---
 # Victoria Cheung, PhD
-Computational Biologist | Health Data Scientist
+Data Scientist | Computational Biologist
 
 <div id="webaddress">
 <a href="mailto:victoriakcheung@gmail.com"><i class="fas fa-regular fa-envelope"></i> victoriakcheung[at]gmail[dot]com</a>
@@ -19,11 +19,9 @@ Computational Biologist | Health Data Scientist
 
 ## Education
 
-`2015-2021`
 (__UCSF__) University of California, San Francisco,
 __Ph.D.__ Genetics; concentration in Neuroscience
 
-`2011-2015`
 (__UCSD__) University of California, San Diego,
 __B.S.__ Microbiology; minor: Chinese Studies
 
@@ -40,8 +38,25 @@ Vision: _Linking Circuits, Perception, and Behavior_
 ## Experience
 
 ### Career-related
+`JUN 2025 - Present`
+*[Revolution Medicines](https://www.revmed.com/)*<br>
+__Senior Computational Clinical Scientist, Translational Medicine__<br>
+- Developed modular Python and R packages to automate ETL, visualization, and statistical analyses of clinical trial data, including API/CLI interfaces, Pydantic-based configuration, and SQL-driven weekly reporting for continuous trial monitoring.
+- Built reproducible analytical infrastructure with standardized covariate and survival-modeling frameworks (scikit-learn, SciPy, lifelines), producing traceable and consistent Kaplan–Meier outputs with full documentation.
+- Designed ML-driven workflows to predict progression-free survival (PFS), integrating baseline co-mutation feature engineering, multivariate modeling, and ML-based feature selection to identify statistically and biologically meaningful predictors.
+- Established engineering and reproducibility standards across the translational data team, including shared codebases, virtual environments, Git workflows, structured documentation, and automated testing.
+- Mentored scientists and engineers on code reviews, onboarding, and best practices, accelerating adoption of Python, reproducible workflows, and modern development practices.
+- Conducted biomarker and clinical outcome analyses, integrating automated infrastructure with scientific insight to inform translational hypotheses, biomarker evaluation, and clinical trial strategy.<br>
 
-`APR 2022 - Present`
+___Technologies used:___<br>
+- Python (scikit-learn, SciPy, lifelines, Pandas, NumPy, Matplotlib)<br>
+- R (tidyverse, survival)<br>
+- SQL (MySQL, PostgreSQL)<br>
+- Engineering & Reproducibility Tools (Git, Conda, uv)<br>
+
+<br>
+
+`APR 2022 - MAY 2025`
 *[Freenome](https://www.freenome.com/about-f)*<br>
 __Computational Biologist__<br>
 - Apply bioinformatics, data science, and computational methods (including AI/ML techniques) to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes.
