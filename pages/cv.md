@@ -25,9 +25,28 @@ Additional Courses:<br>
 
 ## CAREER EXPERIENCE
 * * *
+### **Senior Computational Clinical Scientist, Translational Medicine**
+[Revolution Medicines](https://www.revmed.com/)<br>
+_MAY 2025 - PRESENT_ <br>
+- Developed modular Python and R packages to automate ETL, visualization, and statistical analyses of clinical trial data, including API/CLI interfaces, Pydantic-based configuration, and SQL-driven weekly reporting for continuous trial monitoring.
+- Built reproducible analytical infrastructure with standardized covariate and survival-modeling frameworks (scikit-learn, SciPy, lifelines), producing traceable and consistent Kaplan–Meier outputs with full documentation.
+- Designed ML-driven workflows to predict progression-free survival (PFS), integrating baseline co-mutation feature engineering, multivariate modeling, and ML-based feature selection to identify statistically and biologically meaningful predictors.
+- Established engineering and reproducibility standards across the translational data team, including shared codebases, virtual environments, Git workflows, structured documentation, and automated testing.
+- Mentored scientists and engineers on code reviews, onboarding, and best practices, accelerating adoption of Python, reproducible workflows, and modern development practices.
+- Conducted biomarker and clinical outcome analyses, integrating automated infrastructure with scientific insight to inform translational hypotheses, biomarker evaluation, and clinical trial
+
+**_Technologies used:_**<br>
+- Python (scikit-learn, SciPy, lifelines, Pandas, NumPy, Matplotlib)
+- R (tidyverse, survival)
+- SQL (MySQL, PostgreSQL)
+- Engineering & Reproducibility Tools (Git, Conda, uv)<br>
+
+<br><br>
+
+
 ### **Computational Biologist**
 [Freenome](https://www.freenome.com/about-f)<br>
-_APR 2022 - Present_ <br>
+_APR 2022 - MAY 2025_ <br>
 - Apply bioinformatics, data science, and computational methods (including AI/ML techniques) to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes.
   - Generate new insights and interpretations.
 - Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.
