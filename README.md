@@ -1,6 +1,15 @@
 # About Me
 <br>
-I am an interdisciplinary data scientist with a PhD in Genetics, specializing in computational biology, multi-omics analysis, and machine learning. I have hands-on experience developing scalable data pipelines, integrating genomics, transcriptomics, and proteomics data, and deploying machine learning models for cancer detection, disease monitoring, and evaluating treatment response.
+I’m a computational scientist working across discovery biology, translational research, and clinical development. I work with integrated clinical and molecular datasets, combining machine learning and statistical inference to study how biological signals are identified, evaluated, and interpreted in clinical contexts.
+<br>
+<br>
+My work spans biomarker modeling, multi-omics analysis, and the development of reproducible analytical frameworks for large-scale molecular and clinical datasets, including genomics, transcriptomics, proteomics, and cfDNA-based assays. 
+<br>
+<br>
+I enjoy building scalable computational systems — including distributed workflows and orchestration frameworks — that make complex scientific analyses more reliable, interpretable, and collaborative.
+<br>
+<br>
+My background in systems neuroscience and genomics originally drew me toward questions involving high-dimensional biological systems and quantitative modeling. Over time, that evolved into a broader interest in translational machine learning and computational approaches that support real-world scientific and clinical decision-making.
 <br>
 <br>
 
