@@ -72,7 +72,7 @@ __Cheung, V.__, Chung, P., Bjorni, M.* , Shvareva, VA.* , Lopez, YC., and Feinbe
 
 ## 2020
 ---
-__Cheung, V.__ "[Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)" Towards Data Science. Medium, 20 Jun. 2020. Web.
+__Cheung, V.__ "[Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://medium.com/data-science/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)" Towards Data Science. Medium, 20 Jun. 2020. Web.
 <br>
 <br>
 
